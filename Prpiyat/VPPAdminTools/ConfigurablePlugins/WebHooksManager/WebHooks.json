@@ -1,0 +1,37 @@
+{
+    "M_DATA": [
+        {
+            "m_Name": "Player Login",
+            "m_URL": "https://discord.com/api/webhooks/1125274100147953765/lTPPftgJSe3fEwAUWqhfmG5ol7QfCQFszsJIqyCvRzw8f-qbyIacskUS9r4SGEdrlVtI",
+            "m_deathKillLogs": 0,
+            "m_adminActivityLog": 0,
+            "m_admHitLog": 0,
+            "m_joinLeaveLog": 1,
+            "m_serverStatusLog": 0,
+            "m_serverStatsInterval": 60,
+            "m_simplifiedMessages": 0
+        },
+        {
+            "m_Name": "Status server",
+            "m_URL": "https://discord.com/api/webhooks/1125273527797424171/Tw_z0o8ddrUZsMJwZNjBnmQU7WBCtctPj_dcxAscwpEe87lLkwiJN78Q621PojpFta43",
+            "m_deathKillLogs": 0,
+            "m_adminActivityLog": 0,
+            "m_admHitLog": 0,
+            "m_joinLeaveLog": 0,
+            "m_serverStatusLog": 1,
+            "m_serverStatsInterval": 600,
+            "m_simplifiedMessages": 0
+        },
+        {
+            "m_Name": "KILLFEED",
+            "m_URL": "https://discord.com/api/webhooks/1175925141595758682/4IkN8lkiEgj75k6ZWRXnxJS2vxnxb1Uuv7ds-8mraS5qEcZ79oIwxTlpjCORXJ__ybxs",
+            "m_deathKillLogs": 1,
+            "m_adminActivityLog": 0,
+            "m_admHitLog": 0,
+            "m_joinLeaveLog": 0,
+            "m_serverStatusLog": 0,
+            "m_serverStatsInterval": 60,
+            "m_simplifiedMessages": 0
+        }
+    ]
+}

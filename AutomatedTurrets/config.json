@@ -1,0 +1,228 @@
+{
+    "TurretBase": [
+        {
+            "turretClassName": "land_evg_turret1_top_1000HP",
+            "turretPosition": [
+                149.365997,
+                209.48800,
+                1013.299988
+            ],
+            "turretRotation": [
+                0.000000,
+                0.000000,
+                -0.000000
+            ],
+            "guardRadius": 50.0,
+            "shootingAmmoClassName": "Bullet_556x45",
+            "shootingRPM": 650,
+            "turretHitChance": 30,
+            "useExplosiveRounds": 0,
+            "canBeDestroyed": 1,
+            "canUseIdleState": 0,
+            "idleAngle": 45.0,
+            "timeToRespawn": 1200,
+            "enableSounds": 1,
+            "TargetsPlayers": [
+                "ALL"
+            ],
+            "TargetsZombies": [
+                "ALL"
+            ],
+            "TargetsAnimals": [
+                "ALL"
+            ]
+        },
+        {
+            "turretClassName": "land_evg_turret1_top_1000HP",
+            "turretPosition": [
+                154.610001,
+                209.492996,
+                1013.289978
+            ],
+            "turretRotation": [
+                0.000000,
+                0.000000,
+                -0.000000
+            ],
+            "guardRadius": 75.0,
+            "shootingAmmoClassName": "Bullet_556x45",
+            "shootingRPM": 6000,
+            "turretHitChance": 25,
+            "useExplosiveRounds": 0,
+            "canBeDestroyed": 1,
+            "canUseIdleState": 1,
+            "idleAngle": 90.0,
+            "timeToRespawn": 1200,
+            "enableSounds": 1,
+            "TargetsPlayers": [
+                "ALL"
+            ],
+            "TargetsZombies": [
+                "ALL"
+            ],
+            "TargetsAnimals": [
+                "ALL"
+            ]
+        },
+        {
+            "turretClassName": "land_evg_turret2_bot_5000HP",
+            "turretPosition": [
+                4689.580078,
+                203.285995,
+                16352.299805
+            ],
+            "turretRotation": [
+                -45.360989,
+                0.000000,
+                0.000000
+            ],
+            "guardRadius": 150.0,
+            "shootingAmmoClassName": "Bullet_308Win",
+            "shootingRPM": 6000,
+            "turretHitChance": 100,
+            "useExplosiveRounds": 0,
+            "canBeDestroyed": 0,
+            "canUseIdleState": 1,
+            "idleAngle": 180.0,
+            "timeToRespawn": 10,
+            "enableSounds": 1,
+            "TargetsPlayers": [
+                "NONE"
+            ],
+            "TargetsZombies": [
+                "ALL"
+            ],
+            "TargetsAnimals": [
+                "ALL"
+            ]
+        },
+        {
+            "turretClassName": "land_evg_turret2_bot_5000HP",
+            "turretPosition": [
+                4679.109863,
+                203.057007,
+                16330.700195
+            ],
+            "turretRotation": [
+                -89.104713,
+                0.000000,
+                0.000000
+            ],
+            "guardRadius": 150.0,
+            "shootingAmmoClassName": "Bullet_308Win",
+            "shootingRPM": 6000,
+            "turretHitChance": 100,
+            "useExplosiveRounds": 0,
+            "canBeDestroyed": 0,
+            "canUseIdleState": 1,
+            "idleAngle": 180.0,
+            "timeToRespawn": 10,
+            "enableSounds": 1,
+            "TargetsPlayers": [
+                "NONE"
+            ],
+            "TargetsZombies": [
+                "ALL"
+            ],
+            "TargetsAnimals": [
+                "ALL"
+            ]
+        },
+        {
+            "turretClassName": "land_evg_turret2_bot_5000HP",
+            "turretPosition": [
+                4694.020020,
+                203.207001,
+                16308.099609
+            ],
+            "turretRotation": [
+                -177.929291,
+                0.000000,
+                -0.000000
+            ],
+            "guardRadius": 150.0,
+            "shootingAmmoClassName": "Bullet_308Win",
+            "shootingRPM": 6000,
+            "turretHitChance": 100,
+            "useExplosiveRounds": 0,
+            "canBeDestroyed": 0,
+            "canUseIdleState": 1,
+            "idleAngle": 180.0,
+            "timeToRespawn": 10,
+            "enableSounds": 1,
+            "TargetsPlayers": [
+                "NONE"
+            ],
+            "TargetsZombies": [
+                "ALL"
+            ],
+            "TargetsAnimals": [
+                "ALL"
+            ]
+        },
+        {
+            "turretClassName": "land_evg_turret2_bot_5000HP",
+            "turretPosition": [
+                12881.099609,
+                206.910995,
+                7885.930176
+            ],
+            "turretRotation": [
+                0.000000,
+                0.000000,
+                -0.000000
+            ],
+            "guardRadius": 150.0,
+            "shootingAmmoClassName": "Bullet_308Win",
+            "shootingRPM": 6000,
+            "turretHitChance": 100,
+            "useExplosiveRounds": 0,
+            "canBeDestroyed": 0,
+            "canUseIdleState": 1,
+            "idleAngle": 180.0,
+            "timeToRespawn": 10,
+            "enableSounds": 1,
+            "TargetsPlayers": [
+                "NONE"
+            ],
+            "TargetsZombies": [
+                "ALL"
+            ],
+            "TargetsAnimals": [
+                "ALL"
+            ]
+        },
+        {
+            "turretClassName": "land_evg_turret2_bot_5000HP",
+            "turretPosition": [
+                12896.599609,
+                206.673004,
+                7896.410156
+            ],
+            "turretRotation": [
+                0.000000,
+                0.000000,
+                -0.000000
+            ],
+            "guardRadius": 150.0,
+            "shootingAmmoClassName": "Bullet_308Win",
+            "shootingRPM": 6000,
+            "turretHitChance": 100,
+            "useExplosiveRounds": 0,
+            "canBeDestroyed": 0,
+            "canUseIdleState": 1,
+            "idleAngle": 180.0,
+            "timeToRespawn": 10,
+            "enableSounds": 1,
+            "TargetsPlayers": [
+                "NONE"
+            ],
+            "TargetsZombies": [
+                "ALL"
+            ],
+            "TargetsAnimals": [
+                "ALL"
+            ]
+        }
+    ]
+}
