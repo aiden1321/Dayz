@@ -1,0 +1,2849 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+
+<spawnabletypes>
+<!--
+IF YOU ARE ADDING THESE TO YOUR SPAWNABLETYPES.XML ONLY INCLUDE WHAT IS BELOW THIS LINE
+-->
+	<type name="Datsun240z_Orange_Rusty">
+		<attachments chance="1.00">
+			<item name="Datsun240z_Steel_Wheel_NoCap_Rusty" chance="1.00" />	<!-- Datsun240z_Steel_Wheel_NoCap, Datsun240z_Steel_Wheel_NoCap_Rusty, Datsun240z_Steel_Wheel, Datsun240z_Steel_Wheel_Rusty, Datsun240zWheel Or Datsun240z_Watanabe_Wheel -->
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Datsun240z_Steel_Wheel_NoCap_Rusty" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Datsun240z_Steel_Wheel_NoCap_Rusty" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Datsun240z_Steel_Wheel_NoCap_Rusty" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Datsun240z_Steel_Wheel_NoCap_Rusty" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarRadiator" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarBattery" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="SparkPlug" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Datsun240z_DriverDoor_Orange_Rusty" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Datsun240z_CodriverDoor_Orange_Rusty" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Datsun240z_Trunk_Orange_Rusty" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Datsun240z_FrontBumper_Rusty" chance="1.00" />	<!-- Datsun240z_FrontBumper, Datsun240z_FrontBumper_Rusty, Datsun240z_FrontBumper_Black Or Datsun240z_FrontBumper_Rusty_Black -->
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Datsun240z_RearBumper_Rusty" chance="1.00" />	<!-- Datsun240z_RearBumper, Datsun240z_RearBumper_Rusty, Datsun240z_RearBumper_Black Or Datsun240z_RearBumper_Rusty_Black -->
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Datsun240z_Spoiler" chance="1.00" />	<!-- Datsun240z_Spoiler Or Datsun240z_Spoiler_Glossy -->
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CanisterGasoline" chance="0.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="WoodenCrate" chance="0.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Datsun240z_FenderMirrors" chance="0.00" />  <!-- Datsun240z_FenderMirrors Or Datsun240z_FenderMirrors_Glossy -->
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Datsun240z_Arches" chance="0.00" />	<!-- Datsun240z_Arches Or Datsun240z_Arches_Glossy -->
+		</attachments>
+		<attachments chance="1.00">
+			<item name="TannedLeather" chance="0.00" />	<!-- Used To Change Interior Colour, No tanned leather is black and choice of slots for other colours (Is Vanilla, Craftable In Game With Pelt And Garden Lime) -->
+		</attachments>
+	</type>
+	
+	<type name="Datsun240z_Orange">
+		<attachments chance="1.00">
+			<item name="Datsun240z_Steel_Wheel" chance="1.00" />	<!-- Datsun240z_Steel_Wheel_NoCap, Datsun240z_Steel_Wheel_NoCap_Rusty, Datsun240z_Steel_Wheel, Datsun240z_Steel_Wheel_Rusty, Datsun240zWheel Or Datsun240z_Watanabe_Wheel -->
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Datsun240z_Steel_Wheel" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Datsun240z_Steel_Wheel" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Datsun240z_Steel_Wheel" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Datsun240z_Steel_Wheel" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarRadiator" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarBattery" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="SparkPlug" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Datsun240z_DriverDoor_Orange" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Datsun240z_CodriverDoor_Orange" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Datsun240z_Trunk_Orange" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Datsun240z_FrontBumper" chance="1.00" />	<!-- Datsun240z_FrontBumper, Datsun240z_FrontBumper_Rusty, Datsun240z_FrontBumper_Black Or Datsun240z_FrontBumper_Rusty_Black -->
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Datsun240z_RearBumper" chance="1.00" />	<!-- Datsun240z_RearBumper, Datsun240z_RearBumper_Rusty, Datsun240z_RearBumper_Black Or Datsun240z_RearBumper_Rusty_Black -->
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Datsun240z_Spoiler_Glossy" chance="1.00" />	<!-- Datsun240z_Spoiler Or Datsun240z_Spoiler_Glossy -->
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CanisterGasoline" chance="0.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="WoodenCrate" chance="0.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Datsun240z_FenderMirrors_Glossy" chance="0.00" />  <!-- Datsun240z_FenderMirrors Or Datsun240z_FenderMirrors_Glossy -->
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Datsun240z_Arches_Glossy" chance="0.00" />	<!-- Datsun240z_Arches Or Datsun240z_Arches_Glossy -->
+		</attachments>
+		<attachments chance="1.00">
+			<item name="TannedLeather" chance="0.00" />	<!-- Used To Change Interior Colour, No tanned leather is black and choice of slots for other colours (Is Vanilla, Craftable In Game With Pelt And Garden Lime) -->
+		</attachments>
+	</type>
+	
+	<type name="Datsun240z_Orange_Stripe_Rusty">
+		<attachments chance="1.00">
+			<item name="Datsun240z_Steel_Wheel_NoCap_Rusty" chance="1.00" />	<!-- Datsun240z_Steel_Wheel_NoCap, Datsun240z_Steel_Wheel_NoCap_Rusty, Datsun240z_Steel_Wheel, Datsun240z_Steel_Wheel_Rusty, Datsun240zWheel Or Datsun240z_Watanabe_Wheel -->
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Datsun240z_Steel_Wheel_NoCap_Rusty" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Datsun240z_Steel_Wheel_NoCap_Rusty" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Datsun240z_Steel_Wheel_NoCap_Rusty" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Datsun240z_Steel_Wheel_NoCap_Rusty" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarRadiator" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarBattery" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="SparkPlug" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Datsun240z_DriverDoor_Orange_Stripe_Rusty" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Datsun240z_CodriverDoor_Orange_Stripe_Rusty" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Datsun240z_Trunk_Orange_Stripe_Rusty" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Datsun240z_FrontBumper_Rusty" chance="1.00" />	<!-- Datsun240z_FrontBumper, Datsun240z_FrontBumper_Rusty, Datsun240z_FrontBumper_Black Or Datsun240z_FrontBumper_Rusty_Black -->
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Datsun240z_RearBumper_Rusty" chance="1.00" />	<!-- Datsun240z_RearBumper, Datsun240z_RearBumper_Rusty, Datsun240z_RearBumper_Black Or Datsun240z_RearBumper_Rusty_Black -->
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Datsun240z_Spoiler" chance="1.00" />	<!-- Datsun240z_Spoiler Or Datsun240z_Spoiler_Glossy -->
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CanisterGasoline" chance="0.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="WoodenCrate" chance="0.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Datsun240z_FenderMirrors" chance="0.00" />  <!-- Datsun240z_FenderMirrors Or Datsun240z_FenderMirrors_Glossy -->
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Datsun240z_Arches" chance="0.00" />	<!-- Datsun240z_Arches Or Datsun240z_Arches_Glossy -->
+		</attachments>
+		<attachments chance="1.00">
+			<item name="TannedLeather" chance="0.00" />	<!-- Used To Change Interior Colour, No tanned leather is black and choice of slots for other colours (Is Vanilla, Craftable In Game With Pelt And Garden Lime) -->
+		</attachments>
+	</type>
+	
+	<type name="Datsun240z_Orange_Stripe">
+		<attachments chance="1.00">
+			<item name="Datsun240z_Steel_Wheel" chance="1.00" />	<!-- Datsun240z_Steel_Wheel_NoCap, Datsun240z_Steel_Wheel_NoCap_Rusty, Datsun240z_Steel_Wheel, Datsun240z_Steel_Wheel_Rusty, Datsun240zWheel Or Datsun240z_Watanabe_Wheel -->
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Datsun240z_Steel_Wheel" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Datsun240z_Steel_Wheel" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Datsun240z_Steel_Wheel" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Datsun240z_Steel_Wheel" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarRadiator" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarBattery" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="SparkPlug" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Datsun240z_DriverDoor_Orange_Stripe" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Datsun240z_CodriverDoor_Orange_Stripe" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Datsun240z_Trunk_Orange_Stripe" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Datsun240z_FrontBumper" chance="1.00" />	<!-- Datsun240z_FrontBumper, Datsun240z_FrontBumper_Rusty, Datsun240z_FrontBumper_Black Or Datsun240z_FrontBumper_Rusty_Black -->
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Datsun240z_RearBumper" chance="1.00" />	<!-- Datsun240z_RearBumper, Datsun240z_RearBumper_Rusty, Datsun240z_RearBumper_Black Or Datsun240z_RearBumper_Rusty_Black -->
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Datsun240z_Spoiler_Glossy" chance="1.00" />	<!-- Datsun240z_Spoiler Or Datsun240z_Spoiler_Glossy -->
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CanisterGasoline" chance="0.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="WoodenCrate" chance="0.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Datsun240z_FenderMirrors_Glossy" chance="0.00" />  <!-- Datsun240z_FenderMirrors Or Datsun240z_FenderMirrors_Glossy -->
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Datsun240z_Arches_Glossy" chance="0.00" />	<!-- Datsun240z_Arches Or Datsun240z_Arches_Glossy -->
+		</attachments>
+		<attachments chance="1.00">
+			<item name="TannedLeather" chance="0.00" />	<!-- Used To Change Interior Colour, No tanned leather is black and choice of slots for other colours (Is Vanilla, Craftable In Game With Pelt And Garden Lime) -->
+		</attachments>
+	</type>
+	
+	<type name="Datsun240z_Blue_Stripe_Rusty">
+		<attachments chance="1.00">
+			<item name="Datsun240z_Steel_Wheel_NoCap_Rusty" chance="1.00" />	<!-- Datsun240z_Steel_Wheel_NoCap, Datsun240z_Steel_Wheel_NoCap_Rusty, Datsun240z_Steel_Wheel, Datsun240z_Steel_Wheel_Rusty, Datsun240zWheel Or Datsun240z_Watanabe_Wheel -->
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Datsun240z_Steel_Wheel_NoCap_Rusty" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Datsun240z_Steel_Wheel_NoCap_Rusty" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Datsun240z_Steel_Wheel_NoCap_Rusty" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Datsun240z_Steel_Wheel_NoCap_Rusty" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarRadiator" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarBattery" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="SparkPlug" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Datsun240z_DriverDoor_Blue_Stripe_Rusty" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Datsun240z_CodriverDoor_Blue_Stripe_Rusty" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Datsun240z_Trunk_Blue_Stripe_Rusty" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Datsun240z_FrontBumper_Rusty" chance="1.00" />	<!-- Datsun240z_FrontBumper, Datsun240z_FrontBumper_Rusty, Datsun240z_FrontBumper_Black Or Datsun240z_FrontBumper_Rusty_Black -->
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Datsun240z_RearBumper_Rusty" chance="1.00" />	<!-- Datsun240z_RearBumper, Datsun240z_RearBumper_Rusty, Datsun240z_RearBumper_Black Or Datsun240z_RearBumper_Rusty_Black -->
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Datsun240z_Spoiler" chance="1.00" />	<!-- Datsun240z_Spoiler Or Datsun240z_Spoiler_Glossy -->
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CanisterGasoline" chance="0.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="WoodenCrate" chance="0.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Datsun240z_FenderMirrors" chance="0.00" />  <!-- Datsun240z_FenderMirrors Or Datsun240z_FenderMirrors_Glossy -->
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Datsun240z_Arches" chance="0.00" />	<!-- Datsun240z_Arches Or Datsun240z_Arches_Glossy -->
+		</attachments>
+		<attachments chance="1.00">
+			<item name="TannedLeather" chance="0.00" />	<!-- Used To Change Interior Colour, No tanned leather is black and choice of slots for other colours (Is Vanilla, Craftable In Game With Pelt And Garden Lime) -->
+		</attachments>
+	</type>
+	
+	<type name="Datsun240z_Blue_Stripe">
+		<attachments chance="1.00">
+			<item name="Datsun240z_Steel_Wheel" chance="1.00" />	<!-- Datsun240z_Steel_Wheel_NoCap, Datsun240z_Steel_Wheel_NoCap_Rusty, Datsun240z_Steel_Wheel, Datsun240z_Steel_Wheel_Rusty, Datsun240zWheel Or Datsun240z_Watanabe_Wheel -->
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Datsun240z_Steel_Wheel" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Datsun240z_Steel_Wheel" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Datsun240z_Steel_Wheel" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Datsun240z_Steel_Wheel" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarRadiator" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarBattery" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="SparkPlug" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Datsun240z_DriverDoor_Blue_Stripe" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Datsun240z_CodriverDoor_Blue_Stripe" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Datsun240z_Trunk_Blue_Stripe" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Datsun240z_FrontBumper" chance="1.00" />	<!-- Datsun240z_FrontBumper, Datsun240z_FrontBumper_Rusty, Datsun240z_FrontBumper_Black Or Datsun240z_FrontBumper_Rusty_Black -->
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Datsun240z_RearBumper" chance="1.00" />	<!-- Datsun240z_RearBumper, Datsun240z_RearBumper_Rusty, Datsun240z_RearBumper_Black Or Datsun240z_RearBumper_Rusty_Black -->
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Datsun240z_Spoiler_Glossy" chance="1.00" />	<!-- Datsun240z_Spoiler Or Datsun240z_Spoiler_Glossy -->
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CanisterGasoline" chance="0.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="WoodenCrate" chance="0.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Datsun240z_FenderMirrors_Glossy" chance="0.00" />  <!-- Datsun240z_FenderMirrors Or Datsun240z_FenderMirrors_Glossy -->
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Datsun240z_Arches_Glossy" chance="0.00" />	<!-- Datsun240z_Arches Or Datsun240z_Arches_Glossy -->
+		</attachments>
+		<attachments chance="1.00">
+			<item name="TannedLeather" chance="0.00" />	<!-- Used To Change Interior Colour, No tanned leather is black and choice of slots for other colours (Is Vanilla, Craftable In Game With Pelt And Garden Lime) -->
+		</attachments>
+	</type>
+	
+	<type name="Datsun240z_Multicolored1_Rusty">
+		<attachments chance="1.00">
+			<item name="Datsun240z_Steel_Wheel_NoCap_Rusty" chance="1.00" />	<!-- Datsun240z_Steel_Wheel_NoCap, Datsun240z_Steel_Wheel_NoCap_Rusty, Datsun240z_Steel_Wheel, Datsun240z_Steel_Wheel_Rusty, Datsun240zWheel Or Datsun240z_Watanabe_Wheel -->
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Datsun240z_Steel_Wheel_NoCap_Rusty" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Datsun240z_Steel_Wheel_NoCap_Rusty" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Datsun240z_Steel_Wheel_NoCap_Rusty" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Datsun240z_Steel_Wheel_NoCap_Rusty" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarRadiator" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarBattery" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="SparkPlug" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Datsun240z_DriverDoor_Multicolored1_Rusty" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Datsun240z_CodriverDoor_Multicolored1_Rusty" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Datsun240z_Trunk_Multicolored1_Rusty" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Datsun240z_FrontBumper_Rusty" chance="1.00" />	<!-- Datsun240z_FrontBumper, Datsun240z_FrontBumper_Rusty, Datsun240z_FrontBumper_Black Or Datsun240z_FrontBumper_Rusty_Black -->
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Datsun240z_RearBumper_Rusty" chance="1.00" />	<!-- Datsun240z_RearBumper, Datsun240z_RearBumper_Rusty, Datsun240z_RearBumper_Black Or Datsun240z_RearBumper_Rusty_Black -->
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Datsun240z_Spoiler" chance="1.00" />	<!-- Datsun240z_Spoiler Or Datsun240z_Spoiler_Glossy -->
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CanisterGasoline" chance="0.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="WoodenCrate" chance="0.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Datsun240z_FenderMirrors" chance="0.00" />  <!-- Datsun240z_FenderMirrors Or Datsun240z_FenderMirrors_Glossy -->
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Datsun240z_Arches" chance="0.00" />	<!-- Datsun240z_Arches Or Datsun240z_Arches_Glossy -->
+		</attachments>
+		<attachments chance="1.00">
+			<item name="TannedLeather" chance="0.00" />	<!-- Used To Change Interior Colour, No tanned leather is black and choice of slots for other colours (Is Vanilla, Craftable In Game With Pelt And Garden Lime) -->
+		</attachments>
+	</type>
+	
+	<type name="Datsun240z_Multicolored2_Rusty">
+		<attachments chance="1.00">
+			<item name="Datsun240z_Steel_Wheel_NoCap_Rusty" chance="1.00" />	<!-- Datsun240z_Steel_Wheel_NoCap, Datsun240z_Steel_Wheel_NoCap_Rusty, Datsun240z_Steel_Wheel, Datsun240z_Steel_Wheel_Rusty, Datsun240zWheel Or Datsun240z_Watanabe_Wheel -->
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Datsun240z_Steel_Wheel_NoCap_Rusty" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Datsun240z_Steel_Wheel_NoCap_Rusty" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Datsun240z_Steel_Wheel_NoCap_Rusty" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Datsun240z_Steel_Wheel_NoCap_Rusty" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarRadiator" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarBattery" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="SparkPlug" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Datsun240z_DriverDoor_Multicolored2_Rusty" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Datsun240z_CodriverDoor_Multicolored2_Rusty" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Datsun240z_Trunk_Multicolored2_Rusty" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Datsun240z_FrontBumper_Rusty" chance="1.00" />	<!-- Datsun240z_FrontBumper, Datsun240z_FrontBumper_Rusty, Datsun240z_FrontBumper_Black Or Datsun240z_FrontBumper_Rusty_Black -->
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Datsun240z_RearBumper_Rusty" chance="1.00" />	<!-- Datsun240z_RearBumper, Datsun240z_RearBumper_Rusty, Datsun240z_RearBumper_Black Or Datsun240z_RearBumper_Rusty_Black -->
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Datsun240z_Spoiler" chance="1.00" />	<!-- Datsun240z_Spoiler Or Datsun240z_Spoiler_Glossy -->
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CanisterGasoline" chance="0.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="WoodenCrate" chance="0.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Datsun240z_FenderMirrors" chance="0.00" />  <!-- Datsun240z_FenderMirrors Or Datsun240z_FenderMirrors_Glossy -->
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Datsun240z_Arches" chance="0.00" />	<!-- Datsun240z_Arches Or Datsun240z_Arches_Glossy -->
+		</attachments>
+		<attachments chance="1.00">
+			<item name="TannedLeather" chance="0.00" />	<!-- Used To Change Interior Colour, No tanned leather is black and choice of slots for other colours (Is Vanilla, Craftable In Game With Pelt And Garden Lime) -->
+		</attachments>
+	</type>
+	
+	<type name="Datsun240z_Multicolored3_Rusty">
+		<attachments chance="1.00">
+			<item name="Datsun240z_Steel_Wheel_NoCap_Rusty" chance="1.00" />	<!-- Datsun240z_Steel_Wheel_NoCap, Datsun240z_Steel_Wheel_NoCap_Rusty, Datsun240z_Steel_Wheel, Datsun240z_Steel_Wheel_Rusty, Datsun240zWheel Or Datsun240z_Watanabe_Wheel -->
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Datsun240z_Steel_Wheel_NoCap_Rusty" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Datsun240z_Steel_Wheel_NoCap_Rusty" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Datsun240z_Steel_Wheel_NoCap_Rusty" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Datsun240z_Steel_Wheel_NoCap_Rusty" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarRadiator" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarBattery" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="SparkPlug" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Datsun240z_DriverDoor_Multicolored3_Rusty" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Datsun240z_CodriverDoor_Multicolored3_Rusty" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Datsun240z_Trunk_Multicolored3_Rusty" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Datsun240z_FrontBumper_Rusty" chance="1.00" />	<!-- Datsun240z_FrontBumper, Datsun240z_FrontBumper_Rusty, Datsun240z_FrontBumper_Black Or Datsun240z_FrontBumper_Rusty_Black -->
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Datsun240z_RearBumper_Rusty" chance="1.00" />	<!-- Datsun240z_RearBumper, Datsun240z_RearBumper_Rusty, Datsun240z_RearBumper_Black Or Datsun240z_RearBumper_Rusty_Black -->
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Datsun240z_Spoiler" chance="1.00" />	<!-- Datsun240z_Spoiler Or Datsun240z_Spoiler_Glossy -->
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CanisterGasoline" chance="0.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="WoodenCrate" chance="0.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Datsun240z_FenderMirrors" chance="0.00" />  <!-- Datsun240z_FenderMirrors Or Datsun240z_FenderMirrors_Glossy -->
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Datsun240z_Arches" chance="0.00" />	<!-- Datsun240z_Arches Or Datsun240z_Arches_Glossy -->
+		</attachments>
+		<attachments chance="1.00">
+			<item name="TannedLeather" chance="0.00" />	<!-- Used To Change Interior Colour, No tanned leather is black and choice of slots for other colours (Is Vanilla, Craftable In Game With Pelt And Garden Lime) -->
+		</attachments>
+	</type>
+	
+	<type name="Datsun240z_Beige_Rusty">
+		<attachments chance="1.00">
+			<item name="Datsun240z_Steel_Wheel_NoCap_Rusty" chance="1.00" />	<!-- Datsun240z_Steel_Wheel_NoCap, Datsun240z_Steel_Wheel_NoCap_Rusty, Datsun240z_Steel_Wheel, Datsun240z_Steel_Wheel_Rusty, Datsun240zWheel Or Datsun240z_Watanabe_Wheel -->
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Datsun240z_Steel_Wheel_NoCap_Rusty" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Datsun240z_Steel_Wheel_NoCap_Rusty" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Datsun240z_Steel_Wheel_NoCap_Rusty" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Datsun240z_Steel_Wheel_NoCap_Rusty" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarRadiator" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarBattery" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="SparkPlug" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Datsun240z_DriverDoor_Beige_Rusty" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Datsun240z_CodriverDoor_Beige_Rusty" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Datsun240z_Trunk_Beige_Rusty" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Datsun240z_FrontBumper_Rusty" chance="1.00" />	<!-- Datsun240z_FrontBumper, Datsun240z_FrontBumper_Rusty, Datsun240z_FrontBumper_Black Or Datsun240z_FrontBumper_Rusty_Black -->
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Datsun240z_RearBumper_Rusty" chance="1.00" />	<!-- Datsun240z_RearBumper, Datsun240z_RearBumper_Rusty, Datsun240z_RearBumper_Black Or Datsun240z_RearBumper_Rusty_Black -->
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Datsun240z_Spoiler" chance="1.00" />	<!-- Datsun240z_Spoiler Or Datsun240z_Spoiler_Glossy -->
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CanisterGasoline" chance="0.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="WoodenCrate" chance="0.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Datsun240z_FenderMirrors" chance="0.00" />  <!-- Datsun240z_FenderMirrors Or Datsun240z_FenderMirrors_Glossy -->
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Datsun240z_Arches" chance="0.00" />	<!-- Datsun240z_Arches Or Datsun240z_Arches_Glossy -->
+		</attachments>
+		<attachments chance="1.00">
+			<item name="TannedLeather" chance="0.00" />	<!-- Used To Change Interior Colour, No tanned leather is black and choice of slots for other colours (Is Vanilla, Craftable In Game With Pelt And Garden Lime) -->
+		</attachments>
+	</type>
+	
+	<type name="Datsun240z_Beige">
+		<attachments chance="1.00">
+			<item name="Datsun240z_Steel_Wheel" chance="1.00" />	<!-- Datsun240z_Steel_Wheel_NoCap, Datsun240z_Steel_Wheel_NoCap_Rusty, Datsun240z_Steel_Wheel, Datsun240z_Steel_Wheel_Rusty, Datsun240zWheel Or Datsun240z_Watanabe_Wheel -->
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Datsun240z_Steel_Wheel" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Datsun240z_Steel_Wheel" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Datsun240z_Steel_Wheel" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Datsun240z_Steel_Wheel" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarRadiator" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarBattery" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="SparkPlug" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Datsun240z_DriverDoor_Beige" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Datsun240z_CodriverDoor_Beige" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Datsun240z_Trunk_Beige" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Datsun240z_FrontBumper" chance="1.00" />	<!-- Datsun240z_FrontBumper, Datsun240z_FrontBumper_Rusty, Datsun240z_FrontBumper_Black Or Datsun240z_FrontBumper_Rusty_Black -->
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Datsun240z_RearBumper" chance="1.00" />	<!-- Datsun240z_RearBumper, Datsun240z_RearBumper_Rusty, Datsun240z_RearBumper_Black Or Datsun240z_RearBumper_Rusty_Black -->
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Datsun240z_Spoiler_Glossy" chance="1.00" />	<!-- Datsun240z_Spoiler Or Datsun240z_Spoiler_Glossy -->
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CanisterGasoline" chance="0.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="WoodenCrate" chance="0.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Datsun240z_FenderMirrors_Glossy" chance="0.00" />  <!-- Datsun240z_FenderMirrors Or Datsun240z_FenderMirrors_Glossy -->
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Datsun240z_Arches_Glossy" chance="0.00" />	<!-- Datsun240z_Arches Or Datsun240z_Arches_Glossy -->
+		</attachments>
+		<attachments chance="1.00">
+			<item name="TannedLeather" chance="0.00" />	<!-- Used To Change Interior Colour, No tanned leather is black and choice of slots for other colours (Is Vanilla, Craftable In Game With Pelt And Garden Lime) -->
+		</attachments>
+	</type>
+	
+	<type name="Datsun240z_Black_Rusty">
+		<attachments chance="1.00">
+			<item name="Datsun240z_Steel_Wheel_NoCap_Rusty" chance="1.00" />	<!-- Datsun240z_Steel_Wheel_NoCap, Datsun240z_Steel_Wheel_NoCap_Rusty, Datsun240z_Steel_Wheel, Datsun240z_Steel_Wheel_Rusty, Datsun240zWheel Or Datsun240z_Watanabe_Wheel -->
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Datsun240z_Steel_Wheel_NoCap_Rusty" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Datsun240z_Steel_Wheel_NoCap_Rusty" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Datsun240z_Steel_Wheel_NoCap_Rusty" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Datsun240z_Steel_Wheel_NoCap_Rusty" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarRadiator" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarBattery" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="SparkPlug" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Datsun240z_DriverDoor_Black_Rusty" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Datsun240z_CodriverDoor_Black_Rusty" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Datsun240z_Trunk_Black_Rusty" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Datsun240z_FrontBumper_Rusty" chance="1.00" />	<!-- Datsun240z_FrontBumper, Datsun240z_FrontBumper_Rusty, Datsun240z_FrontBumper_Black Or Datsun240z_FrontBumper_Rusty_Black -->
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Datsun240z_RearBumper_Rusty" chance="1.00" />	<!-- Datsun240z_RearBumper, Datsun240z_RearBumper_Rusty, Datsun240z_RearBumper_Black Or Datsun240z_RearBumper_Rusty_Black -->
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Datsun240z_Spoiler" chance="1.00" />	<!-- Datsun240z_Spoiler Or Datsun240z_Spoiler_Glossy -->
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CanisterGasoline" chance="0.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="WoodenCrate" chance="0.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Datsun240z_FenderMirrors" chance="0.00" />  <!-- Datsun240z_FenderMirrors Or Datsun240z_FenderMirrors_Glossy -->
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Datsun240z_Arches" chance="0.00" />	<!-- Datsun240z_Arches Or Datsun240z_Arches_Glossy -->
+		</attachments>
+		<attachments chance="1.00">
+			<item name="TannedLeather" chance="0.00" />	<!-- Used To Change Interior Colour, No tanned leather is black and choice of slots for other colours (Is Vanilla, Craftable In Game With Pelt And Garden Lime) -->
+		</attachments>
+	</type>
+	
+	<type name="Datsun240z_Black">
+		<attachments chance="1.00">
+			<item name="Datsun240z_Steel_Wheel" chance="1.00" />	<!-- Datsun240z_Steel_Wheel_NoCap, Datsun240z_Steel_Wheel_NoCap_Rusty, Datsun240z_Steel_Wheel, Datsun240z_Steel_Wheel_Rusty, Datsun240zWheel Or Datsun240z_Watanabe_Wheel -->
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Datsun240z_Steel_Wheel" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Datsun240z_Steel_Wheel" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Datsun240z_Steel_Wheel" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Datsun240z_Steel_Wheel" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarRadiator" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarBattery" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="SparkPlug" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Datsun240z_DriverDoor_Black" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Datsun240z_CodriverDoor_Black" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Datsun240z_Trunk_Black" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Datsun240z_FrontBumper" chance="1.00" />	<!-- Datsun240z_FrontBumper, Datsun240z_FrontBumper_Rusty, Datsun240z_FrontBumper_Black Or Datsun240z_FrontBumper_Rusty_Black -->
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Datsun240z_RearBumper" chance="1.00" />	<!-- Datsun240z_RearBumper, Datsun240z_RearBumper_Rusty, Datsun240z_RearBumper_Black Or Datsun240z_RearBumper_Rusty_Black -->
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Datsun240z_Spoiler_Glossy" chance="1.00" />	<!-- Datsun240z_Spoiler Or Datsun240z_Spoiler_Glossy -->
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CanisterGasoline" chance="0.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="WoodenCrate" chance="0.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Datsun240z_FenderMirrors_Glossy" chance="0.00" />  <!-- Datsun240z_FenderMirrors Or Datsun240z_FenderMirrors_Glossy -->
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Datsun240z_Arches_Glossy" chance="0.00" />	<!-- Datsun240z_Arches Or Datsun240z_Arches_Glossy -->
+		</attachments>
+		<attachments chance="1.00">
+			<item name="TannedLeather" chance="0.00" />	<!-- Used To Change Interior Colour, No tanned leather is black and choice of slots for other colours (Is Vanilla, Craftable In Game With Pelt And Garden Lime) -->
+		</attachments>
+	</type>
+	
+	<type name="Datsun240z_Black_Stripe_Rusty">
+		<attachments chance="1.00">
+			<item name="Datsun240z_Steel_Wheel_NoCap_Rusty" chance="1.00" />	<!-- Datsun240z_Steel_Wheel_NoCap, Datsun240z_Steel_Wheel_NoCap_Rusty, Datsun240z_Steel_Wheel, Datsun240z_Steel_Wheel_Rusty, Datsun240zWheel Or Datsun240z_Watanabe_Wheel -->
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Datsun240z_Steel_Wheel_NoCap_Rusty" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Datsun240z_Steel_Wheel_NoCap_Rusty" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Datsun240z_Steel_Wheel_NoCap_Rusty" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Datsun240z_Steel_Wheel_NoCap_Rusty" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarRadiator" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarBattery" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="SparkPlug" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Datsun240z_DriverDoor_Black_Stripe_Rusty" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Datsun240z_CodriverDoor_Black_Stripe_Rusty" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Datsun240z_Trunk_Black_Stripe_Rusty" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Datsun240z_FrontBumper_Rusty" chance="1.00" />	<!-- Datsun240z_FrontBumper, Datsun240z_FrontBumper_Rusty, Datsun240z_FrontBumper_Black Or Datsun240z_FrontBumper_Rusty_Black -->
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Datsun240z_RearBumper_Rusty" chance="1.00" />	<!-- Datsun240z_RearBumper, Datsun240z_RearBumper_Rusty, Datsun240z_RearBumper_Black Or Datsun240z_RearBumper_Rusty_Black -->
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Datsun240z_Spoiler" chance="1.00" />	<!-- Datsun240z_Spoiler Or Datsun240z_Spoiler_Glossy -->
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CanisterGasoline" chance="0.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="WoodenCrate" chance="0.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Datsun240z_FenderMirrors" chance="0.00" />  <!-- Datsun240z_FenderMirrors Or Datsun240z_FenderMirrors_Glossy -->
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Datsun240z_Arches" chance="0.00" />	<!-- Datsun240z_Arches Or Datsun240z_Arches_Glossy -->
+		</attachments>
+		<attachments chance="1.00">
+			<item name="TannedLeather" chance="0.00" />	<!-- Used To Change Interior Colour, No tanned leather is black and choice of slots for other colours (Is Vanilla, Craftable In Game With Pelt And Garden Lime) -->
+		</attachments>
+	</type>
+	
+	<type name="Datsun240z_Black_Stripe">
+		<attachments chance="1.00">
+			<item name="Datsun240z_Steel_Wheel" chance="1.00" />	<!-- Datsun240z_Steel_Wheel_NoCap, Datsun240z_Steel_Wheel_NoCap_Rusty, Datsun240z_Steel_Wheel, Datsun240z_Steel_Wheel_Rusty, Datsun240zWheel Or Datsun240z_Watanabe_Wheel -->
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Datsun240z_Steel_Wheel" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Datsun240z_Steel_Wheel" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Datsun240z_Steel_Wheel" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Datsun240z_Steel_Wheel" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarRadiator" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarBattery" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="SparkPlug" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Datsun240z_DriverDoor_Black_Stripe" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Datsun240z_CodriverDoor_Black_Stripe" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Datsun240z_Trunk_Black_Stripe" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Datsun240z_FrontBumper" chance="1.00" />	<!-- Datsun240z_FrontBumper, Datsun240z_FrontBumper_Rusty, Datsun240z_FrontBumper_Black Or Datsun240z_FrontBumper_Rusty_Black -->
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Datsun240z_RearBumper" chance="1.00" />	<!-- Datsun240z_RearBumper, Datsun240z_RearBumper_Rusty, Datsun240z_RearBumper_Black Or Datsun240z_RearBumper_Rusty_Black -->
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Datsun240z_Spoiler_Glossy" chance="1.00" />	<!-- Datsun240z_Spoiler Or Datsun240z_Spoiler_Glossy -->
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CanisterGasoline" chance="0.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="WoodenCrate" chance="0.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Datsun240z_FenderMirrors_Glossy" chance="0.00" />  <!-- Datsun240z_FenderMirrors Or Datsun240z_FenderMirrors_Glossy -->
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Datsun240z_Arches_Glossy" chance="0.00" />	<!-- Datsun240z_Arches Or Datsun240z_Arches_Glossy -->
+		</attachments>
+		<attachments chance="1.00">
+			<item name="TannedLeather" chance="0.00" />	<!-- Used To Change Interior Colour, No tanned leather is black and choice of slots for other colours (Is Vanilla, Craftable In Game With Pelt And Garden Lime) -->
+		</attachments>
+	</type>
+	
+	<type name="Datsun240z_Blue_Rusty">
+		<attachments chance="1.00">
+			<item name="Datsun240z_Steel_Wheel_NoCap_Rusty" chance="1.00" />	<!-- Datsun240z_Steel_Wheel_NoCap, Datsun240z_Steel_Wheel_NoCap_Rusty, Datsun240z_Steel_Wheel, Datsun240z_Steel_Wheel_Rusty, Datsun240zWheel Or Datsun240z_Watanabe_Wheel -->
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Datsun240z_Steel_Wheel_NoCap_Rusty" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Datsun240z_Steel_Wheel_NoCap_Rusty" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Datsun240z_Steel_Wheel_NoCap_Rusty" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Datsun240z_Steel_Wheel_NoCap_Rusty" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarRadiator" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarBattery" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="SparkPlug" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Datsun240z_DriverDoor_Blue_Rusty" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Datsun240z_CodriverDoor_Blue_Rusty" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Datsun240z_Trunk_Blue_Rusty" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Datsun240z_FrontBumper_Rusty" chance="1.00" />	<!-- Datsun240z_FrontBumper, Datsun240z_FrontBumper_Rusty, Datsun240z_FrontBumper_Black Or Datsun240z_FrontBumper_Rusty_Black -->
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Datsun240z_RearBumper_Rusty" chance="1.00" />	<!-- Datsun240z_RearBumper, Datsun240z_RearBumper_Rusty, Datsun240z_RearBumper_Black Or Datsun240z_RearBumper_Rusty_Black -->
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Datsun240z_Spoiler" chance="1.00" />	<!-- Datsun240z_Spoiler Or Datsun240z_Spoiler_Glossy -->
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CanisterGasoline" chance="0.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="WoodenCrate" chance="0.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Datsun240z_FenderMirrors" chance="0.00" />  <!-- Datsun240z_FenderMirrors Or Datsun240z_FenderMirrors_Glossy -->
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Datsun240z_Arches" chance="0.00" />	<!-- Datsun240z_Arches Or Datsun240z_Arches_Glossy -->
+		</attachments>
+		<attachments chance="1.00">
+			<item name="TannedLeather" chance="0.00" />	<!-- Used To Change Interior Colour, No tanned leather is black and choice of slots for other colours (Is Vanilla, Craftable In Game With Pelt And Garden Lime) -->
+		</attachments>
+	</type>
+	
+	<type name="Datsun240z_Blue">
+		<attachments chance="1.00">
+			<item name="Datsun240z_Steel_Wheel" chance="1.00" />	<!-- Datsun240z_Steel_Wheel_NoCap, Datsun240z_Steel_Wheel_NoCap_Rusty, Datsun240z_Steel_Wheel, Datsun240z_Steel_Wheel_Rusty, Datsun240zWheel Or Datsun240z_Watanabe_Wheel -->
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Datsun240z_Steel_Wheel" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Datsun240z_Steel_Wheel" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Datsun240z_Steel_Wheel" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Datsun240z_Steel_Wheel" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarRadiator" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarBattery" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="SparkPlug" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Datsun240z_DriverDoor_Blue" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Datsun240z_CodriverDoor_Blue" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Datsun240z_Trunk_Blue" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Datsun240z_FrontBumper" chance="1.00" />	<!-- Datsun240z_FrontBumper, Datsun240z_FrontBumper_Rusty, Datsun240z_FrontBumper_Black Or Datsun240z_FrontBumper_Rusty_Black -->
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Datsun240z_RearBumper" chance="1.00" />	<!-- Datsun240z_RearBumper, Datsun240z_RearBumper_Rusty, Datsun240z_RearBumper_Black Or Datsun240z_RearBumper_Rusty_Black -->
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Datsun240z_Spoiler_Glossy" chance="1.00" />	<!-- Datsun240z_Spoiler Or Datsun240z_Spoiler_Glossy -->
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CanisterGasoline" chance="0.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="WoodenCrate" chance="0.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Datsun240z_FenderMirrors_Glossy" chance="0.00" />  <!-- Datsun240z_FenderMirrors Or Datsun240z_FenderMirrors_Glossy -->
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Datsun240z_Arches_Glossy" chance="0.00" />	<!-- Datsun240z_Arches Or Datsun240z_Arches_Glossy -->
+		</attachments>
+		<attachments chance="1.00">
+			<item name="TannedLeather" chance="0.00" />	<!-- Used To Change Interior Colour, No tanned leather is black and choice of slots for other colours (Is Vanilla, Craftable In Game With Pelt And Garden Lime) -->
+		</attachments>
+	</type>
+	
+	<type name="Datsun240z_Blue_Dark_Rusty">
+		<attachments chance="1.00">
+			<item name="Datsun240z_Steel_Wheel_NoCap_Rusty" chance="1.00" />	<!-- Datsun240z_Steel_Wheel_NoCap, Datsun240z_Steel_Wheel_NoCap_Rusty, Datsun240z_Steel_Wheel, Datsun240z_Steel_Wheel_Rusty, Datsun240zWheel Or Datsun240z_Watanabe_Wheel -->
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Datsun240z_Steel_Wheel_NoCap_Rusty" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Datsun240z_Steel_Wheel_NoCap_Rusty" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Datsun240z_Steel_Wheel_NoCap_Rusty" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Datsun240z_Steel_Wheel_NoCap_Rusty" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarRadiator" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarBattery" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="SparkPlug" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Datsun240z_DriverDoor_Blue_Dark_Rusty" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Datsun240z_CodriverDoor_Blue_Dark_Rusty" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Datsun240z_Trunk_Blue_Dark_Rusty" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Datsun240z_FrontBumper_Rusty" chance="1.00" />	<!-- Datsun240z_FrontBumper, Datsun240z_FrontBumper_Rusty, Datsun240z_FrontBumper_Black Or Datsun240z_FrontBumper_Rusty_Black -->
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Datsun240z_RearBumper_Rusty" chance="1.00" />	<!-- Datsun240z_RearBumper, Datsun240z_RearBumper_Rusty, Datsun240z_RearBumper_Black Or Datsun240z_RearBumper_Rusty_Black -->
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Datsun240z_Spoiler" chance="1.00" />	<!-- Datsun240z_Spoiler Or Datsun240z_Spoiler_Glossy -->
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CanisterGasoline" chance="0.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="WoodenCrate" chance="0.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Datsun240z_FenderMirrors" chance="0.00" />  <!-- Datsun240z_FenderMirrors Or Datsun240z_FenderMirrors_Glossy -->
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Datsun240z_Arches" chance="0.00" />	<!-- Datsun240z_Arches Or Datsun240z_Arches_Glossy -->
+		</attachments>
+		<attachments chance="1.00">
+			<item name="TannedLeather" chance="0.00" />	<!-- Used To Change Interior Colour, No tanned leather is black and choice of slots for other colours (Is Vanilla, Craftable In Game With Pelt And Garden Lime) -->
+		</attachments>
+	</type>
+	
+	<type name="Datsun240z_Blue_Dark">
+		<attachments chance="1.00">
+			<item name="Datsun240z_Steel_Wheel" chance="1.00" />	<!-- Datsun240z_Steel_Wheel_NoCap, Datsun240z_Steel_Wheel_NoCap_Rusty, Datsun240z_Steel_Wheel, Datsun240z_Steel_Wheel_Rusty, Datsun240zWheel Or Datsun240z_Watanabe_Wheel -->
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Datsun240z_Steel_Wheel" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Datsun240z_Steel_Wheel" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Datsun240z_Steel_Wheel" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Datsun240z_Steel_Wheel" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarRadiator" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarBattery" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="SparkPlug" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Datsun240z_DriverDoor_Blue_Dark" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Datsun240z_CodriverDoor_Blue_Dark" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Datsun240z_Trunk_Blue_Dark" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Datsun240z_FrontBumper" chance="1.00" />	<!-- Datsun240z_FrontBumper, Datsun240z_FrontBumper_Rusty, Datsun240z_FrontBumper_Black Or Datsun240z_FrontBumper_Rusty_Black -->
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Datsun240z_RearBumper" chance="1.00" />	<!-- Datsun240z_RearBumper, Datsun240z_RearBumper_Rusty, Datsun240z_RearBumper_Black Or Datsun240z_RearBumper_Rusty_Black -->
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Datsun240z_Spoiler_Glossy" chance="1.00" />	<!-- Datsun240z_Spoiler Or Datsun240z_Spoiler_Glossy -->
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CanisterGasoline" chance="0.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="WoodenCrate" chance="0.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Datsun240z_FenderMirrors_Glossy" chance="0.00" />  <!-- Datsun240z_FenderMirrors Or Datsun240z_FenderMirrors_Glossy -->
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Datsun240z_Arches_Glossy" chance="0.00" />	<!-- Datsun240z_Arches Or Datsun240z_Arches_Glossy -->
+		</attachments>
+		<attachments chance="1.00">
+			<item name="TannedLeather" chance="0.00" />	<!-- Used To Change Interior Colour, No tanned leather is black and choice of slots for other colours (Is Vanilla, Craftable In Game With Pelt And Garden Lime) -->
+		</attachments>
+	</type>
+	
+	<type name="Datsun240z_Gray_Rusty">
+		<attachments chance="1.00">
+			<item name="Datsun240z_Steel_Wheel_NoCap_Rusty" chance="1.00" />	<!-- Datsun240z_Steel_Wheel_NoCap, Datsun240z_Steel_Wheel_NoCap_Rusty, Datsun240z_Steel_Wheel, Datsun240z_Steel_Wheel_Rusty, Datsun240zWheel Or Datsun240z_Watanabe_Wheel -->
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Datsun240z_Steel_Wheel_NoCap_Rusty" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Datsun240z_Steel_Wheel_NoCap_Rusty" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Datsun240z_Steel_Wheel_NoCap_Rusty" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Datsun240z_Steel_Wheel_NoCap_Rusty" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarRadiator" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarBattery" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="SparkPlug" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Datsun240z_DriverDoor_Gray_Rusty" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Datsun240z_CodriverDoor_Gray_Rusty" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Datsun240z_Trunk_Gray_Rusty" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Datsun240z_FrontBumper_Rusty" chance="1.00" />	<!-- Datsun240z_FrontBumper, Datsun240z_FrontBumper_Rusty, Datsun240z_FrontBumper_Black Or Datsun240z_FrontBumper_Rusty_Black -->
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Datsun240z_RearBumper_Rusty" chance="1.00" />	<!-- Datsun240z_RearBumper, Datsun240z_RearBumper_Rusty, Datsun240z_RearBumper_Black Or Datsun240z_RearBumper_Rusty_Black -->
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Datsun240z_Spoiler" chance="1.00" />	<!-- Datsun240z_Spoiler Or Datsun240z_Spoiler_Glossy -->
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CanisterGasoline" chance="0.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="WoodenCrate" chance="0.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Datsun240z_FenderMirrors" chance="0.00" />  <!-- Datsun240z_FenderMirrors Or Datsun240z_FenderMirrors_Glossy -->
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Datsun240z_Arches" chance="0.00" />	<!-- Datsun240z_Arches Or Datsun240z_Arches_Glossy -->
+		</attachments>
+		<attachments chance="1.00">
+			<item name="TannedLeather" chance="0.00" />	<!-- Used To Change Interior Colour, No tanned leather is black and choice of slots for other colours (Is Vanilla, Craftable In Game With Pelt And Garden Lime) -->
+		</attachments>
+	</type>
+	
+	<type name="Datsun240z_Gray">
+		<attachments chance="1.00">
+			<item name="Datsun240z_Steel_Wheel" chance="1.00" />	<!-- Datsun240z_Steel_Wheel_NoCap, Datsun240z_Steel_Wheel_NoCap_Rusty, Datsun240z_Steel_Wheel, Datsun240z_Steel_Wheel_Rusty, Datsun240zWheel Or Datsun240z_Watanabe_Wheel -->
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Datsun240z_Steel_Wheel" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Datsun240z_Steel_Wheel" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Datsun240z_Steel_Wheel" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Datsun240z_Steel_Wheel" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarRadiator" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarBattery" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="SparkPlug" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Datsun240z_DriverDoor_Gray" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Datsun240z_CodriverDoor_Gray" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Datsun240z_Trunk_Gray" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Datsun240z_FrontBumper" chance="1.00" />	<!-- Datsun240z_FrontBumper, Datsun240z_FrontBumper_Rusty, Datsun240z_FrontBumper_Black Or Datsun240z_FrontBumper_Rusty_Black -->
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Datsun240z_RearBumper" chance="1.00" />	<!-- Datsun240z_RearBumper, Datsun240z_RearBumper_Rusty, Datsun240z_RearBumper_Black Or Datsun240z_RearBumper_Rusty_Black -->
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Datsun240z_Spoiler_Glossy" chance="1.00" />	<!-- Datsun240z_Spoiler Or Datsun240z_Spoiler_Glossy -->
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CanisterGasoline" chance="0.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="WoodenCrate" chance="0.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Datsun240z_FenderMirrors_Glossy" chance="0.00" />  <!-- Datsun240z_FenderMirrors Or Datsun240z_FenderMirrors_Glossy -->
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Datsun240z_Arches_Glossy" chance="0.00" />	<!-- Datsun240z_Arches Or Datsun240z_Arches_Glossy -->
+		</attachments>
+		<attachments chance="1.00">
+			<item name="TannedLeather" chance="0.00" />	<!-- Used To Change Interior Colour, No tanned leather is black and choice of slots for other colours (Is Vanilla, Craftable In Game With Pelt And Garden Lime) -->
+		</attachments>
+	</type>
+	
+	<type name="Datsun240z_Green_Rusty">
+		<attachments chance="1.00">
+			<item name="Datsun240z_Steel_Wheel_NoCap_Rusty" chance="1.00" />	<!-- Datsun240z_Steel_Wheel_NoCap, Datsun240z_Steel_Wheel_NoCap_Rusty, Datsun240z_Steel_Wheel, Datsun240z_Steel_Wheel_Rusty, Datsun240zWheel Or Datsun240z_Watanabe_Wheel -->
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Datsun240z_Steel_Wheel_NoCap_Rusty" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Datsun240z_Steel_Wheel_NoCap_Rusty" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Datsun240z_Steel_Wheel_NoCap_Rusty" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Datsun240z_Steel_Wheel_NoCap_Rusty" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarRadiator" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarBattery" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="SparkPlug" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Datsun240z_DriverDoor_Green_Rusty" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Datsun240z_CodriverDoor_Green_Rusty" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Datsun240z_Trunk_Green_Rusty" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Datsun240z_FrontBumper_Rusty" chance="1.00" />	<!-- Datsun240z_FrontBumper, Datsun240z_FrontBumper_Rusty, Datsun240z_FrontBumper_Black Or Datsun240z_FrontBumper_Rusty_Black -->
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Datsun240z_RearBumper_Rusty" chance="1.00" />	<!-- Datsun240z_RearBumper, Datsun240z_RearBumper_Rusty, Datsun240z_RearBumper_Black Or Datsun240z_RearBumper_Rusty_Black -->
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Datsun240z_Spoiler" chance="1.00" />	<!-- Datsun240z_Spoiler Or Datsun240z_Spoiler_Glossy -->
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CanisterGasoline" chance="0.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="WoodenCrate" chance="0.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Datsun240z_FenderMirrors" chance="0.00" />  <!-- Datsun240z_FenderMirrors Or Datsun240z_FenderMirrors_Glossy -->
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Datsun240z_Arches" chance="0.00" />	<!-- Datsun240z_Arches Or Datsun240z_Arches_Glossy -->
+		</attachments>
+		<attachments chance="1.00">
+			<item name="TannedLeather" chance="0.00" />	<!-- Used To Change Interior Colour, No tanned leather is black and choice of slots for other colours (Is Vanilla, Craftable In Game With Pelt And Garden Lime) -->
+		</attachments>
+	</type>
+	
+	<type name="Datsun240z_Green">
+		<attachments chance="1.00">
+			<item name="Datsun240z_Steel_Wheel" chance="1.00" />	<!-- Datsun240z_Steel_Wheel_NoCap, Datsun240z_Steel_Wheel_NoCap_Rusty, Datsun240z_Steel_Wheel, Datsun240z_Steel_Wheel_Rusty, Datsun240zWheel Or Datsun240z_Watanabe_Wheel -->
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Datsun240z_Steel_Wheel" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Datsun240z_Steel_Wheel" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Datsun240z_Steel_Wheel" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Datsun240z_Steel_Wheel" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarRadiator" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarBattery" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="SparkPlug" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Datsun240z_DriverDoor_Green" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Datsun240z_CodriverDoor_Green" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Datsun240z_Trunk_Green" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Datsun240z_FrontBumper" chance="1.00" />	<!-- Datsun240z_FrontBumper, Datsun240z_FrontBumper_Rusty, Datsun240z_FrontBumper_Black Or Datsun240z_FrontBumper_Rusty_Black -->
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Datsun240z_RearBumper" chance="1.00" />	<!-- Datsun240z_RearBumper, Datsun240z_RearBumper_Rusty, Datsun240z_RearBumper_Black Or Datsun240z_RearBumper_Rusty_Black -->
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Datsun240z_Spoiler_Glossy" chance="1.00" />	<!-- Datsun240z_Spoiler Or Datsun240z_Spoiler_Glossy -->
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CanisterGasoline" chance="0.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="WoodenCrate" chance="0.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Datsun240z_FenderMirrors_Glossy" chance="0.00" />  <!-- Datsun240z_FenderMirrors Or Datsun240z_FenderMirrors_Glossy -->
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Datsun240z_Arches_Glossy" chance="0.00" />	<!-- Datsun240z_Arches Or Datsun240z_Arches_Glossy -->
+		</attachments>
+		<attachments chance="1.00">
+			<item name="TannedLeather" chance="0.00" />	<!-- Used To Change Interior Colour, No tanned leather is black and choice of slots for other colours (Is Vanilla, Craftable In Game With Pelt And Garden Lime) -->
+		</attachments>
+	</type>
+	
+	<type name="Datsun240z_Green_Dark_Rusty">
+		<attachments chance="1.00">
+			<item name="Datsun240z_Steel_Wheel_NoCap_Rusty" chance="1.00" />	<!-- Datsun240z_Steel_Wheel_NoCap, Datsun240z_Steel_Wheel_NoCap_Rusty, Datsun240z_Steel_Wheel, Datsun240z_Steel_Wheel_Rusty, Datsun240zWheel Or Datsun240z_Watanabe_Wheel -->
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Datsun240z_Steel_Wheel_NoCap_Rusty" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Datsun240z_Steel_Wheel_NoCap_Rusty" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Datsun240z_Steel_Wheel_NoCap_Rusty" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Datsun240z_Steel_Wheel_NoCap_Rusty" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarRadiator" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarBattery" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="SparkPlug" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Datsun240z_DriverDoor_Green_Dark_Rusty" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Datsun240z_CodriverDoor_Green_Dark_Rusty" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Datsun240z_Trunk_Green_Dark_Rusty" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Datsun240z_FrontBumper_Rusty" chance="1.00" />	<!-- Datsun240z_FrontBumper, Datsun240z_FrontBumper_Rusty, Datsun240z_FrontBumper_Black Or Datsun240z_FrontBumper_Rusty_Black -->
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Datsun240z_RearBumper_Rusty" chance="1.00" />	<!-- Datsun240z_RearBumper, Datsun240z_RearBumper_Rusty, Datsun240z_RearBumper_Black Or Datsun240z_RearBumper_Rusty_Black -->
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Datsun240z_Spoiler" chance="1.00" />	<!-- Datsun240z_Spoiler Or Datsun240z_Spoiler_Glossy -->
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CanisterGasoline" chance="0.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="WoodenCrate" chance="0.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Datsun240z_FenderMirrors" chance="0.00" />  <!-- Datsun240z_FenderMirrors Or Datsun240z_FenderMirrors_Glossy -->
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Datsun240z_Arches" chance="0.00" />	<!-- Datsun240z_Arches Or Datsun240z_Arches_Glossy -->
+		</attachments>
+		<attachments chance="1.00">
+			<item name="TannedLeather" chance="0.00" />	<!-- Used To Change Interior Colour, No tanned leather is black and choice of slots for other colours (Is Vanilla, Craftable In Game With Pelt And Garden Lime) -->
+		</attachments>
+	</type>
+	
+	<type name="Datsun240z_Green_Dark">
+		<attachments chance="1.00">
+			<item name="Datsun240z_Steel_Wheel" chance="1.00" />	<!-- Datsun240z_Steel_Wheel_NoCap, Datsun240z_Steel_Wheel_NoCap_Rusty, Datsun240z_Steel_Wheel, Datsun240z_Steel_Wheel_Rusty, Datsun240zWheel Or Datsun240z_Watanabe_Wheel -->
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Datsun240z_Steel_Wheel" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Datsun240z_Steel_Wheel" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Datsun240z_Steel_Wheel" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Datsun240z_Steel_Wheel" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarRadiator" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarBattery" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="SparkPlug" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Datsun240z_DriverDoor_Green_Dark" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Datsun240z_CodriverDoor_Green_Dark" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Datsun240z_Trunk_Green_Dark" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Datsun240z_FrontBumper" chance="1.00" />	<!-- Datsun240z_FrontBumper, Datsun240z_FrontBumper_Rusty, Datsun240z_FrontBumper_Black Or Datsun240z_FrontBumper_Rusty_Black -->
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Datsun240z_RearBumper" chance="1.00" />	<!-- Datsun240z_RearBumper, Datsun240z_RearBumper_Rusty, Datsun240z_RearBumper_Black Or Datsun240z_RearBumper_Rusty_Black -->
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Datsun240z_Spoiler_Glossy" chance="1.00" />	<!-- Datsun240z_Spoiler Or Datsun240z_Spoiler_Glossy -->
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CanisterGasoline" chance="0.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="WoodenCrate" chance="0.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Datsun240z_FenderMirrors_Glossy" chance="0.00" />  <!-- Datsun240z_FenderMirrors Or Datsun240z_FenderMirrors_Glossy -->
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Datsun240z_Arches_Glossy" chance="0.00" />	<!-- Datsun240z_Arches Or Datsun240z_Arches_Glossy -->
+		</attachments>
+		<attachments chance="1.00">
+			<item name="TannedLeather" chance="0.00" />	<!-- Used To Change Interior Colour, No tanned leather is black and choice of slots for other colours (Is Vanilla, Craftable In Game With Pelt And Garden Lime) -->
+		</attachments>
+	</type>
+	
+	<type name="Datsun240z_Green_Dark_Stripe_Rusty">
+		<attachments chance="1.00">
+			<item name="Datsun240z_Steel_Wheel_NoCap_Rusty" chance="1.00" />	<!-- Datsun240z_Steel_Wheel_NoCap, Datsun240z_Steel_Wheel_NoCap_Rusty, Datsun240z_Steel_Wheel, Datsun240z_Steel_Wheel_Rusty, Datsun240zWheel Or Datsun240z_Watanabe_Wheel -->
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Datsun240z_Steel_Wheel_NoCap_Rusty" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Datsun240z_Steel_Wheel_NoCap_Rusty" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Datsun240z_Steel_Wheel_NoCap_Rusty" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Datsun240z_Steel_Wheel_NoCap_Rusty" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarRadiator" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarBattery" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="SparkPlug" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Datsun240z_DriverDoor_Green_Dark_Stripe_Rusty" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Datsun240z_CodriverDoor_Green_Dark_Stripe_Rusty" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Datsun240z_Trunk_Green_Dark_Stripe_Rusty" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Datsun240z_FrontBumper_Rusty" chance="1.00" />	<!-- Datsun240z_FrontBumper, Datsun240z_FrontBumper_Rusty, Datsun240z_FrontBumper_Black Or Datsun240z_FrontBumper_Rusty_Black -->
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Datsun240z_RearBumper_Rusty" chance="1.00" />	<!-- Datsun240z_RearBumper, Datsun240z_RearBumper_Rusty, Datsun240z_RearBumper_Black Or Datsun240z_RearBumper_Rusty_Black -->
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Datsun240z_Spoiler" chance="1.00" />	<!-- Datsun240z_Spoiler Or Datsun240z_Spoiler_Glossy -->
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CanisterGasoline" chance="0.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="WoodenCrate" chance="0.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Datsun240z_FenderMirrors" chance="0.00" />  <!-- Datsun240z_FenderMirrors Or Datsun240z_FenderMirrors_Glossy -->
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Datsun240z_Arches" chance="0.00" />	<!-- Datsun240z_Arches Or Datsun240z_Arches_Glossy -->
+		</attachments>
+		<attachments chance="1.00">
+			<item name="TannedLeather" chance="0.00" />	<!-- Used To Change Interior Colour, No tanned leather is black and choice of slots for other colours (Is Vanilla, Craftable In Game With Pelt And Garden Lime) -->
+		</attachments>
+	</type>
+	
+	<type name="Datsun240z_Green_Dark_Stripe">
+		<attachments chance="1.00">
+			<item name="Datsun240z_Steel_Wheel" chance="1.00" />	<!-- Datsun240z_Steel_Wheel_NoCap, Datsun240z_Steel_Wheel_NoCap_Rusty, Datsun240z_Steel_Wheel, Datsun240z_Steel_Wheel_Rusty, Datsun240zWheel Or Datsun240z_Watanabe_Wheel -->
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Datsun240z_Steel_Wheel" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Datsun240z_Steel_Wheel" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Datsun240z_Steel_Wheel" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Datsun240z_Steel_Wheel" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarRadiator" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarBattery" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="SparkPlug" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Datsun240z_DriverDoor_Green_Dark_Stripe" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Datsun240z_CodriverDoor_Green_Dark_Stripe" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Datsun240z_Trunk_Green_Dark_Stripe" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Datsun240z_FrontBumper" chance="1.00" />	<!-- Datsun240z_FrontBumper, Datsun240z_FrontBumper_Rusty, Datsun240z_FrontBumper_Black Or Datsun240z_FrontBumper_Rusty_Black -->
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Datsun240z_RearBumper" chance="1.00" />	<!-- Datsun240z_RearBumper, Datsun240z_RearBumper_Rusty, Datsun240z_RearBumper_Black Or Datsun240z_RearBumper_Rusty_Black -->
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Datsun240z_Spoiler_Glossy" chance="1.00" />	<!-- Datsun240z_Spoiler Or Datsun240z_Spoiler_Glossy -->
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CanisterGasoline" chance="0.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="WoodenCrate" chance="0.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Datsun240z_FenderMirrors_Glossy" chance="0.00" />  <!-- Datsun240z_FenderMirrors Or Datsun240z_FenderMirrors_Glossy -->
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Datsun240z_Arches_Glossy" chance="0.00" />	<!-- Datsun240z_Arches Or Datsun240z_Arches_Glossy -->
+		</attachments>
+		<attachments chance="1.00">
+			<item name="TannedLeather" chance="0.00" />	<!-- Used To Change Interior Colour, No tanned leather is black and choice of slots for other colours (Is Vanilla, Craftable In Game With Pelt And Garden Lime) -->
+		</attachments>
+	</type>
+	
+	
+	<type name="Datsun240z_Purple_Rusty">
+		<attachments chance="1.00">
+			<item name="Datsun240z_Steel_Wheel_NoCap_Rusty" chance="1.00" />	<!-- Datsun240z_Steel_Wheel_NoCap, Datsun240z_Steel_Wheel_NoCap_Rusty, Datsun240z_Steel_Wheel, Datsun240z_Steel_Wheel_Rusty, Datsun240zWheel Or Datsun240z_Watanabe_Wheel -->
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Datsun240z_Steel_Wheel_NoCap_Rusty" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Datsun240z_Steel_Wheel_NoCap_Rusty" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Datsun240z_Steel_Wheel_NoCap_Rusty" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Datsun240z_Steel_Wheel_NoCap_Rusty" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarRadiator" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarBattery" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="SparkPlug" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Datsun240z_DriverDoor_Purple_Rusty" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Datsun240z_CodriverDoor_Purple_Rusty" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Datsun240z_Trunk_Purple_Rusty" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Datsun240z_FrontBumper_Rusty" chance="1.00" />	<!-- Datsun240z_FrontBumper, Datsun240z_FrontBumper_Rusty, Datsun240z_FrontBumper_Black Or Datsun240z_FrontBumper_Rusty_Black -->
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Datsun240z_RearBumper_Rusty" chance="1.00" />	<!-- Datsun240z_RearBumper, Datsun240z_RearBumper_Rusty, Datsun240z_RearBumper_Black Or Datsun240z_RearBumper_Rusty_Black -->
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Datsun240z_Spoiler" chance="1.00" />	<!-- Datsun240z_Spoiler Or Datsun240z_Spoiler_Glossy -->
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CanisterGasoline" chance="0.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="WoodenCrate" chance="0.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Datsun240z_FenderMirrors" chance="0.00" />  <!-- Datsun240z_FenderMirrors Or Datsun240z_FenderMirrors_Glossy -->
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Datsun240z_Arches" chance="0.00" />	<!-- Datsun240z_Arches Or Datsun240z_Arches_Glossy -->
+		</attachments>
+		<attachments chance="1.00">
+			<item name="TannedLeather" chance="0.00" />	<!-- Used To Change Interior Colour, No tanned leather is black and choice of slots for other colours (Is Vanilla, Craftable In Game With Pelt And Garden Lime) -->
+		</attachments>
+	</type>
+	
+	<type name="Datsun240z_Purple">
+		<attachments chance="1.00">
+			<item name="Datsun240z_Steel_Wheel" chance="1.00" />	<!-- Datsun240z_Steel_Wheel_NoCap, Datsun240z_Steel_Wheel_NoCap_Rusty, Datsun240z_Steel_Wheel, Datsun240z_Steel_Wheel_Rusty, Datsun240zWheel Or Datsun240z_Watanabe_Wheel -->
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Datsun240z_Steel_Wheel" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Datsun240z_Steel_Wheel" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Datsun240z_Steel_Wheel" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Datsun240z_Steel_Wheel" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarRadiator" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarBattery" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="SparkPlug" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Datsun240z_DriverDoor_Purple" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Datsun240z_CodriverDoor_Purple" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Datsun240z_Trunk_Purple" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Datsun240z_FrontBumper" chance="1.00" />	<!-- Datsun240z_FrontBumper, Datsun240z_FrontBumper_Rusty, Datsun240z_FrontBumper_Black Or Datsun240z_FrontBumper_Rusty_Black -->
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Datsun240z_RearBumper" chance="1.00" />	<!-- Datsun240z_RearBumper, Datsun240z_RearBumper_Rusty, Datsun240z_RearBumper_Black Or Datsun240z_RearBumper_Rusty_Black -->
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Datsun240z_Spoiler_Glossy" chance="1.00" />	<!-- Datsun240z_Spoiler Or Datsun240z_Spoiler_Glossy -->
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CanisterGasoline" chance="0.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="WoodenCrate" chance="0.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Datsun240z_FenderMirrors_Glossy" chance="0.00" />  <!-- Datsun240z_FenderMirrors Or Datsun240z_FenderMirrors_Glossy -->
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Datsun240z_Arches_Glossy" chance="0.00" />	<!-- Datsun240z_Arches Or Datsun240z_Arches_Glossy -->
+		</attachments>
+		<attachments chance="1.00">
+			<item name="TannedLeather" chance="0.00" />	<!-- Used To Change Interior Colour, No tanned leather is black and choice of slots for other colours (Is Vanilla, Craftable In Game With Pelt And Garden Lime) -->
+		</attachments>
+	</type>
+	
+	<type name="Datsun240z_Red_Rusty">
+		<attachments chance="1.00">
+			<item name="Datsun240z_Steel_Wheel_NoCap_Rusty" chance="1.00" />	<!-- Datsun240z_Steel_Wheel_NoCap, Datsun240z_Steel_Wheel_NoCap_Rusty, Datsun240z_Steel_Wheel, Datsun240z_Steel_Wheel_Rusty, Datsun240zWheel Or Datsun240z_Watanabe_Wheel -->
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Datsun240z_Steel_Wheel_NoCap_Rusty" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Datsun240z_Steel_Wheel_NoCap_Rusty" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Datsun240z_Steel_Wheel_NoCap_Rusty" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Datsun240z_Steel_Wheel_NoCap_Rusty" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarRadiator" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarBattery" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="SparkPlug" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Datsun240z_DriverDoor_Red_Rusty" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Datsun240z_CodriverDoor_Red_Rusty" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Datsun240z_Trunk_Red_Rusty" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Datsun240z_FrontBumper_Rusty" chance="1.00" />	<!-- Datsun240z_FrontBumper, Datsun240z_FrontBumper_Rusty, Datsun240z_FrontBumper_Black Or Datsun240z_FrontBumper_Rusty_Black -->
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Datsun240z_RearBumper_Rusty" chance="1.00" />	<!-- Datsun240z_RearBumper, Datsun240z_RearBumper_Rusty, Datsun240z_RearBumper_Black Or Datsun240z_RearBumper_Rusty_Black -->
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Datsun240z_Spoiler" chance="1.00" />	<!-- Datsun240z_Spoiler Or Datsun240z_Spoiler_Glossy -->
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CanisterGasoline" chance="0.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="WoodenCrate" chance="0.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Datsun240z_FenderMirrors" chance="0.00" />  <!-- Datsun240z_FenderMirrors Or Datsun240z_FenderMirrors_Glossy -->
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Datsun240z_Arches" chance="0.00" />	<!-- Datsun240z_Arches Or Datsun240z_Arches_Glossy -->
+		</attachments>
+		<attachments chance="1.00">
+			<item name="TannedLeather" chance="0.00" />	<!-- Used To Change Interior Colour, No tanned leather is black and choice of slots for other colours (Is Vanilla, Craftable In Game With Pelt And Garden Lime) -->
+		</attachments>
+	</type>
+	
+	<type name="Datsun240z_Red">
+		<attachments chance="1.00">
+			<item name="Datsun240z_Steel_Wheel" chance="1.00" />	<!-- Datsun240z_Steel_Wheel_NoCap, Datsun240z_Steel_Wheel_NoCap_Rusty, Datsun240z_Steel_Wheel, Datsun240z_Steel_Wheel_Rusty, Datsun240zWheel Or Datsun240z_Watanabe_Wheel -->
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Datsun240z_Steel_Wheel" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Datsun240z_Steel_Wheel" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Datsun240z_Steel_Wheel" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Datsun240z_Steel_Wheel" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarRadiator" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarBattery" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="SparkPlug" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Datsun240z_DriverDoor_Red" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Datsun240z_CodriverDoor_Red" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Datsun240z_Trunk_Red" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Datsun240z_FrontBumper" chance="1.00" />	<!-- Datsun240z_FrontBumper, Datsun240z_FrontBumper_Rusty, Datsun240z_FrontBumper_Black Or Datsun240z_FrontBumper_Rusty_Black -->
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Datsun240z_RearBumper" chance="1.00" />	<!-- Datsun240z_RearBumper, Datsun240z_RearBumper_Rusty, Datsun240z_RearBumper_Black Or Datsun240z_RearBumper_Rusty_Black -->
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Datsun240z_Spoiler_Glossy" chance="1.00" />	<!-- Datsun240z_Spoiler Or Datsun240z_Spoiler_Glossy -->
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CanisterGasoline" chance="0.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="WoodenCrate" chance="0.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Datsun240z_FenderMirrors_Glossy" chance="0.00" />  <!-- Datsun240z_FenderMirrors Or Datsun240z_FenderMirrors_Glossy -->
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Datsun240z_Arches_Glossy" chance="0.00" />	<!-- Datsun240z_Arches Or Datsun240z_Arches_Glossy -->
+		</attachments>
+		<attachments chance="1.00">
+			<item name="TannedLeather" chance="0.00" />	<!-- Used To Change Interior Colour, No tanned leather is black and choice of slots for other colours (Is Vanilla, Craftable In Game With Pelt And Garden Lime) -->
+		</attachments>
+	</type>
+	
+	
+	<type name="Datsun240z_Red_Dark_Rusty">
+		<attachments chance="1.00">
+			<item name="Datsun240z_Steel_Wheel_NoCap_Rusty" chance="1.00" />	<!-- Datsun240z_Steel_Wheel_NoCap, Datsun240z_Steel_Wheel_NoCap_Rusty, Datsun240z_Steel_Wheel, Datsun240z_Steel_Wheel_Rusty, Datsun240zWheel Or Datsun240z_Watanabe_Wheel -->
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Datsun240z_Steel_Wheel_NoCap_Rusty" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Datsun240z_Steel_Wheel_NoCap_Rusty" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Datsun240z_Steel_Wheel_NoCap_Rusty" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Datsun240z_Steel_Wheel_NoCap_Rusty" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarRadiator" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarBattery" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="SparkPlug" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Datsun240z_DriverDoor_Red_Dark_Rusty" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Datsun240z_CodriverDoor_Red_Dark_Rusty" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Datsun240z_Trunk_Red_Dark_Rusty" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Datsun240z_FrontBumper_Rusty" chance="1.00" />	<!-- Datsun240z_FrontBumper, Datsun240z_FrontBumper_Rusty, Datsun240z_FrontBumper_Black Or Datsun240z_FrontBumper_Rusty_Black -->
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Datsun240z_RearBumper_Rusty" chance="1.00" />	<!-- Datsun240z_RearBumper, Datsun240z_RearBumper_Rusty, Datsun240z_RearBumper_Black Or Datsun240z_RearBumper_Rusty_Black -->
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Datsun240z_Spoiler" chance="1.00" />	<!-- Datsun240z_Spoiler Or Datsun240z_Spoiler_Glossy -->
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CanisterGasoline" chance="0.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="WoodenCrate" chance="0.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Datsun240z_FenderMirrors" chance="0.00" />  <!-- Datsun240z_FenderMirrors Or Datsun240z_FenderMirrors_Glossy -->
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Datsun240z_Arches" chance="0.00" />	<!-- Datsun240z_Arches Or Datsun240z_Arches_Glossy -->
+		</attachments>
+		<attachments chance="1.00">
+			<item name="TannedLeather" chance="0.00" />	<!-- Used To Change Interior Colour, No tanned leather is black and choice of slots for other colours (Is Vanilla, Craftable In Game With Pelt And Garden Lime) -->
+		</attachments>
+	</type>
+	
+	<type name="Datsun240z_Red_Dark">
+		<attachments chance="1.00">
+			<item name="Datsun240z_Steel_Wheel" chance="1.00" />	<!-- Datsun240z_Steel_Wheel_NoCap, Datsun240z_Steel_Wheel_NoCap_Rusty, Datsun240z_Steel_Wheel, Datsun240z_Steel_Wheel_Rusty, Datsun240zWheel Or Datsun240z_Watanabe_Wheel -->
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Datsun240z_Steel_Wheel" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Datsun240z_Steel_Wheel" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Datsun240z_Steel_Wheel" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Datsun240z_Steel_Wheel" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarRadiator" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarBattery" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="SparkPlug" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Datsun240z_DriverDoor_Red_Dark" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Datsun240z_CodriverDoor_Red_Dark" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Datsun240z_Trunk_Red_Dark" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Datsun240z_FrontBumper" chance="1.00" />	<!-- Datsun240z_FrontBumper, Datsun240z_FrontBumper_Rusty, Datsun240z_FrontBumper_Black Or Datsun240z_FrontBumper_Rusty_Black -->
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Datsun240z_RearBumper" chance="1.00" />	<!-- Datsun240z_RearBumper, Datsun240z_RearBumper_Rusty, Datsun240z_RearBumper_Black Or Datsun240z_RearBumper_Rusty_Black -->
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Datsun240z_Spoiler_Glossy" chance="1.00" />	<!-- Datsun240z_Spoiler Or Datsun240z_Spoiler_Glossy -->
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CanisterGasoline" chance="0.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="WoodenCrate" chance="0.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Datsun240z_FenderMirrors_Glossy" chance="0.00" />  <!-- Datsun240z_FenderMirrors Or Datsun240z_FenderMirrors_Glossy -->
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Datsun240z_Arches_Glossy" chance="0.00" />	<!-- Datsun240z_Arches Or Datsun240z_Arches_Glossy -->
+		</attachments>
+		<attachments chance="1.00">
+			<item name="TannedLeather" chance="0.00" />	<!-- Used To Change Interior Colour, No tanned leather is black and choice of slots for other colours (Is Vanilla, Craftable In Game With Pelt And Garden Lime) -->
+		</attachments>
+	</type>
+	
+	<type name="Datsun240z_Red_Stripe_Rusty">
+		<attachments chance="1.00">
+			<item name="Datsun240z_Steel_Wheel_NoCap_Rusty" chance="1.00" />	<!-- Datsun240z_Steel_Wheel_NoCap, Datsun240z_Steel_Wheel_NoCap_Rusty, Datsun240z_Steel_Wheel, Datsun240z_Steel_Wheel_Rusty, Datsun240zWheel Or Datsun240z_Watanabe_Wheel -->
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Datsun240z_Steel_Wheel_NoCap_Rusty" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Datsun240z_Steel_Wheel_NoCap_Rusty" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Datsun240z_Steel_Wheel_NoCap_Rusty" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Datsun240z_Steel_Wheel_NoCap_Rusty" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarRadiator" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarBattery" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="SparkPlug" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Datsun240z_DriverDoor_Red_Stripe_Rusty" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Datsun240z_CodriverDoor_Red_Stripe_Rusty" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Datsun240z_Trunk_Red_Stripe_Rusty" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Datsun240z_FrontBumper_Rusty" chance="1.00" />	<!-- Datsun240z_FrontBumper, Datsun240z_FrontBumper_Rusty, Datsun240z_FrontBumper_Black Or Datsun240z_FrontBumper_Rusty_Black -->
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Datsun240z_RearBumper_Rusty" chance="1.00" />	<!-- Datsun240z_RearBumper, Datsun240z_RearBumper_Rusty, Datsun240z_RearBumper_Black Or Datsun240z_RearBumper_Rusty_Black -->
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Datsun240z_Spoiler" chance="1.00" />	<!-- Datsun240z_Spoiler Or Datsun240z_Spoiler_Glossy -->
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CanisterGasoline" chance="0.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="WoodenCrate" chance="0.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Datsun240z_FenderMirrors" chance="0.00" />  <!-- Datsun240z_FenderMirrors Or Datsun240z_FenderMirrors_Glossy -->
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Datsun240z_Arches" chance="0.00" />	<!-- Datsun240z_Arches Or Datsun240z_Arches_Glossy -->
+		</attachments>
+		<attachments chance="1.00">
+			<item name="TannedLeather" chance="0.00" />	<!-- Used To Change Interior Colour, No tanned leather is black and choice of slots for other colours (Is Vanilla, Craftable In Game With Pelt And Garden Lime) -->
+		</attachments>
+	</type>
+	
+	<type name="Datsun240z_Red_Stripe">
+		<attachments chance="1.00">
+			<item name="Datsun240z_Steel_Wheel" chance="1.00" />	<!-- Datsun240z_Steel_Wheel_NoCap, Datsun240z_Steel_Wheel_NoCap_Rusty, Datsun240z_Steel_Wheel, Datsun240z_Steel_Wheel_Rusty, Datsun240zWheel Or Datsun240z_Watanabe_Wheel -->
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Datsun240z_Steel_Wheel" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Datsun240z_Steel_Wheel" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Datsun240z_Steel_Wheel" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Datsun240z_Steel_Wheel" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarRadiator" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarBattery" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="SparkPlug" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Datsun240z_DriverDoor_Red_Stripe" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Datsun240z_CodriverDoor_Red_Stripe" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Datsun240z_Trunk_Red_Stripe" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Datsun240z_FrontBumper" chance="1.00" />	<!-- Datsun240z_FrontBumper, Datsun240z_FrontBumper_Rusty, Datsun240z_FrontBumper_Black Or Datsun240z_FrontBumper_Rusty_Black -->
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Datsun240z_RearBumper" chance="1.00" />	<!-- Datsun240z_RearBumper, Datsun240z_RearBumper_Rusty, Datsun240z_RearBumper_Black Or Datsun240z_RearBumper_Rusty_Black -->
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Datsun240z_Spoiler_Glossy" chance="1.00" />	<!-- Datsun240z_Spoiler Or Datsun240z_Spoiler_Glossy -->
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CanisterGasoline" chance="0.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="WoodenCrate" chance="0.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Datsun240z_FenderMirrors_Glossy" chance="0.00" />  <!-- Datsun240z_FenderMirrors Or Datsun240z_FenderMirrors_Glossy -->
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Datsun240z_Arches_Glossy" chance="0.00" />	<!-- Datsun240z_Arches Or Datsun240z_Arches_Glossy -->
+		</attachments>
+		<attachments chance="1.00">
+			<item name="TannedLeather" chance="0.00" />	<!-- Used To Change Interior Colour, No tanned leather is black and choice of slots for other colours (Is Vanilla, Craftable In Game With Pelt And Garden Lime) -->
+		</attachments>
+	</type>
+	
+	<type name="Datsun240z_White_Rusty">
+		<attachments chance="1.00">
+			<item name="Datsun240z_Steel_Wheel_NoCap_Rusty" chance="1.00" />	<!-- Datsun240z_Steel_Wheel_NoCap, Datsun240z_Steel_Wheel_NoCap_Rusty, Datsun240z_Steel_Wheel, Datsun240z_Steel_Wheel_Rusty, Datsun240zWheel Or Datsun240z_Watanabe_Wheel -->
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Datsun240z_Steel_Wheel_NoCap_Rusty" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Datsun240z_Steel_Wheel_NoCap_Rusty" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Datsun240z_Steel_Wheel_NoCap_Rusty" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Datsun240z_Steel_Wheel_NoCap_Rusty" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarRadiator" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarBattery" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="SparkPlug" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Datsun240z_DriverDoor_White_Rusty" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Datsun240z_CodriverDoor_White_Rusty" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Datsun240z_Trunk_White_Rusty" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Datsun240z_FrontBumper_Rusty" chance="1.00" />	<!-- Datsun240z_FrontBumper, Datsun240z_FrontBumper_Rusty, Datsun240z_FrontBumper_Black Or Datsun240z_FrontBumper_Rusty_Black -->
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Datsun240z_RearBumper_Rusty" chance="1.00" />	<!-- Datsun240z_RearBumper, Datsun240z_RearBumper_Rusty, Datsun240z_RearBumper_Black Or Datsun240z_RearBumper_Rusty_Black -->
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Datsun240z_Spoiler" chance="1.00" />	<!-- Datsun240z_Spoiler Or Datsun240z_Spoiler_Glossy -->
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CanisterGasoline" chance="0.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="WoodenCrate" chance="0.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Datsun240z_FenderMirrors" chance="0.00" />  <!-- Datsun240z_FenderMirrors Or Datsun240z_FenderMirrors_Glossy -->
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Datsun240z_Arches" chance="0.00" />	<!-- Datsun240z_Arches Or Datsun240z_Arches_Glossy -->
+		</attachments>
+		<attachments chance="1.00">
+			<item name="TannedLeather" chance="0.00" />	<!-- Used To Change Interior Colour, No tanned leather is black and choice of slots for other colours (Is Vanilla, Craftable In Game With Pelt And Garden Lime) -->
+		</attachments>
+	</type>
+	
+	<type name="Datsun240z_White">
+		<attachments chance="1.00">
+			<item name="Datsun240z_Steel_Wheel" chance="1.00" />	<!-- Datsun240z_Steel_Wheel_NoCap, Datsun240z_Steel_Wheel_NoCap_Rusty, Datsun240z_Steel_Wheel, Datsun240z_Steel_Wheel_Rusty, Datsun240zWheel Or Datsun240z_Watanabe_Wheel -->
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Datsun240z_Steel_Wheel" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Datsun240z_Steel_Wheel" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Datsun240z_Steel_Wheel" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Datsun240z_Steel_Wheel" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarRadiator" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarBattery" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="SparkPlug" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Datsun240z_DriverDoor_White" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Datsun240z_CodriverDoor_White" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Datsun240z_Trunk_White" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Datsun240z_FrontBumper" chance="1.00" />	<!-- Datsun240z_FrontBumper, Datsun240z_FrontBumper_Rusty, Datsun240z_FrontBumper_Black Or Datsun240z_FrontBumper_Rusty_Black -->
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Datsun240z_RearBumper" chance="1.00" />	<!-- Datsun240z_RearBumper, Datsun240z_RearBumper_Rusty, Datsun240z_RearBumper_Black Or Datsun240z_RearBumper_Rusty_Black -->
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Datsun240z_Spoiler_Glossy" chance="1.00" />	<!-- Datsun240z_Spoiler Or Datsun240z_Spoiler_Glossy -->
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CanisterGasoline" chance="0.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="WoodenCrate" chance="0.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Datsun240z_FenderMirrors_Glossy" chance="0.00" />  <!-- Datsun240z_FenderMirrors Or Datsun240z_FenderMirrors_Glossy -->
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Datsun240z_Arches_Glossy" chance="0.00" />	<!-- Datsun240z_Arches Or Datsun240z_Arches_Glossy -->
+		</attachments>
+		<attachments chance="1.00">
+			<item name="TannedLeather" chance="0.00" />	<!-- Used To Change Interior Colour, No tanned leather is black and choice of slots for other colours (Is Vanilla, Craftable In Game With Pelt And Garden Lime) -->
+		</attachments>
+	</type>
+	
+	<type name="Datsun240z_White_Stripe_Rusty">
+		<attachments chance="1.00">
+			<item name="Datsun240z_Steel_Wheel_NoCap_Rusty" chance="1.00" />	<!-- Datsun240z_Steel_Wheel_NoCap, Datsun240z_Steel_Wheel_NoCap_Rusty, Datsun240z_Steel_Wheel, Datsun240z_Steel_Wheel_Rusty, Datsun240zWheel Or Datsun240z_Watanabe_Wheel -->
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Datsun240z_Steel_Wheel_NoCap_Rusty" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Datsun240z_Steel_Wheel_NoCap_Rusty" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Datsun240z_Steel_Wheel_NoCap_Rusty" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Datsun240z_Steel_Wheel_NoCap_Rusty" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarRadiator" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarBattery" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="SparkPlug" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Datsun240z_DriverDoor_White_Stripe_Rusty" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Datsun240z_CodriverDoor_White_Stripe_Rusty" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Datsun240z_Trunk_White_Stripe_Rusty" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Datsun240z_FrontBumper_Rusty" chance="1.00" />	<!-- Datsun240z_FrontBumper, Datsun240z_FrontBumper_Rusty, Datsun240z_FrontBumper_Black Or Datsun240z_FrontBumper_Rusty_Black -->
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Datsun240z_RearBumper_Rusty" chance="1.00" />	<!-- Datsun240z_RearBumper, Datsun240z_RearBumper_Rusty, Datsun240z_RearBumper_Black Or Datsun240z_RearBumper_Rusty_Black -->
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Datsun240z_Spoiler" chance="1.00" />	<!-- Datsun240z_Spoiler Or Datsun240z_Spoiler_Glossy -->
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CanisterGasoline" chance="0.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="WoodenCrate" chance="0.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Datsun240z_FenderMirrors" chance="0.00" />  <!-- Datsun240z_FenderMirrors Or Datsun240z_FenderMirrors_Glossy -->
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Datsun240z_Arches" chance="0.00" />	<!-- Datsun240z_Arches Or Datsun240z_Arches_Glossy -->
+		</attachments>
+		<attachments chance="1.00">
+			<item name="TannedLeather" chance="0.00" />	<!-- Used To Change Interior Colour, No tanned leather is black and choice of slots for other colours (Is Vanilla, Craftable In Game With Pelt And Garden Lime) -->
+		</attachments>
+	</type>
+	
+	<type name="Datsun240z_White_Stripe">
+		<attachments chance="1.00">
+			<item name="Datsun240z_Steel_Wheel" chance="1.00" />	<!-- Datsun240z_Steel_Wheel_NoCap, Datsun240z_Steel_Wheel_NoCap_Rusty, Datsun240z_Steel_Wheel, Datsun240z_Steel_Wheel_Rusty, Datsun240zWheel Or Datsun240z_Watanabe_Wheel -->
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Datsun240z_Steel_Wheel" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Datsun240z_Steel_Wheel" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Datsun240z_Steel_Wheel" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Datsun240z_Steel_Wheel" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarRadiator" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarBattery" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="SparkPlug" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Datsun240z_DriverDoor_White_Stripe" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Datsun240z_CodriverDoor_White_Stripe" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Datsun240z_Trunk_White_Stripe" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Datsun240z_FrontBumper" chance="1.00" />	<!-- Datsun240z_FrontBumper, Datsun240z_FrontBumper_Rusty, Datsun240z_FrontBumper_Black Or Datsun240z_FrontBumper_Rusty_Black -->
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Datsun240z_RearBumper" chance="1.00" />	<!-- Datsun240z_RearBumper, Datsun240z_RearBumper_Rusty, Datsun240z_RearBumper_Black Or Datsun240z_RearBumper_Rusty_Black -->
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Datsun240z_Spoiler_Glossy" chance="1.00" />	<!-- Datsun240z_Spoiler Or Datsun240z_Spoiler_Glossy -->
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CanisterGasoline" chance="0.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="WoodenCrate" chance="0.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Datsun240z_FenderMirrors_Glossy" chance="0.00" />  <!-- Datsun240z_FenderMirrors Or Datsun240z_FenderMirrors_Glossy -->
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Datsun240z_Arches_Glossy" chance="0.00" />	<!-- Datsun240z_Arches Or Datsun240z_Arches_Glossy -->
+		</attachments>
+		<attachments chance="1.00">
+			<item name="TannedLeather" chance="0.00" />	<!-- Used To Change Interior Colour, No tanned leather is black and choice of slots for other colours (Is Vanilla, Craftable In Game With Pelt And Garden Lime) -->
+		</attachments>
+	</type>
+	
+	<type name="Datsun240z_Yellow_Rusty">
+		<attachments chance="1.00">
+			<item name="Datsun240z_Steel_Wheel_NoCap_Rusty" chance="1.00" />	<!-- Datsun240z_Steel_Wheel_NoCap, Datsun240z_Steel_Wheel_NoCap_Rusty, Datsun240z_Steel_Wheel, Datsun240z_Steel_Wheel_Rusty, Datsun240zWheel Or Datsun240z_Watanabe_Wheel -->
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Datsun240z_Steel_Wheel_NoCap_Rusty" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Datsun240z_Steel_Wheel_NoCap_Rusty" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Datsun240z_Steel_Wheel_NoCap_Rusty" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Datsun240z_Steel_Wheel_NoCap_Rusty" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarRadiator" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarBattery" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="SparkPlug" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Datsun240z_DriverDoor_Yellow_Rusty" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Datsun240z_CodriverDoor_Yellow_Rusty" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Datsun240z_Trunk_Yellow_Rusty" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Datsun240z_FrontBumper_Rusty" chance="1.00" />	<!-- Datsun240z_FrontBumper, Datsun240z_FrontBumper_Rusty, Datsun240z_FrontBumper_Black Or Datsun240z_FrontBumper_Rusty_Black -->
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Datsun240z_RearBumper_Rusty" chance="1.00" />	<!-- Datsun240z_RearBumper, Datsun240z_RearBumper_Rusty, Datsun240z_RearBumper_Black Or Datsun240z_RearBumper_Rusty_Black -->
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Datsun240z_Spoiler" chance="1.00" />	<!-- Datsun240z_Spoiler Or Datsun240z_Spoiler_Glossy -->
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CanisterGasoline" chance="0.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="WoodenCrate" chance="0.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Datsun240z_FenderMirrors" chance="0.00" />  <!-- Datsun240z_FenderMirrors Or Datsun240z_FenderMirrors_Glossy -->
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Datsun240z_Arches" chance="0.00" />	<!-- Datsun240z_Arches Or Datsun240z_Arches_Glossy -->
+		</attachments>
+		<attachments chance="1.00">
+			<item name="TannedLeather" chance="0.00" />	<!-- Used To Change Interior Colour, No tanned leather is black and choice of slots for other colours (Is Vanilla, Craftable In Game With Pelt And Garden Lime) -->
+		</attachments>
+	</type>
+	
+	<type name="Datsun240z_Yellow">
+		<attachments chance="1.00">
+			<item name="Datsun240z_Steel_Wheel" chance="1.00" />	<!-- Datsun240z_Steel_Wheel_NoCap, Datsun240z_Steel_Wheel_NoCap_Rusty, Datsun240z_Steel_Wheel, Datsun240z_Steel_Wheel_Rusty, Datsun240zWheel Or Datsun240z_Watanabe_Wheel -->
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Datsun240z_Steel_Wheel" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Datsun240z_Steel_Wheel" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Datsun240z_Steel_Wheel" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Datsun240z_Steel_Wheel" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarRadiator" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarBattery" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="SparkPlug" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Datsun240z_DriverDoor_Yellow" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Datsun240z_CodriverDoor_Yellow" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Datsun240z_Trunk_Yellow" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Datsun240z_FrontBumper" chance="1.00" />	<!-- Datsun240z_FrontBumper, Datsun240z_FrontBumper_Rusty, Datsun240z_FrontBumper_Black Or Datsun240z_FrontBumper_Rusty_Black -->
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Datsun240z_RearBumper" chance="1.00" />	<!-- Datsun240z_RearBumper, Datsun240z_RearBumper_Rusty, Datsun240z_RearBumper_Black Or Datsun240z_RearBumper_Rusty_Black -->
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Datsun240z_Spoiler_Glossy" chance="1.00" />	<!-- Datsun240z_Spoiler Or Datsun240z_Spoiler_Glossy -->
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CanisterGasoline" chance="0.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="WoodenCrate" chance="0.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Datsun240z_FenderMirrors_Glossy" chance="0.00" />  <!-- Datsun240z_FenderMirrors Or Datsun240z_FenderMirrors_Glossy -->
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Datsun240z_Arches_Glossy" chance="0.00" />	<!-- Datsun240z_Arches Or Datsun240z_Arches_Glossy -->
+		</attachments>
+		<attachments chance="1.00">
+			<item name="TannedLeather" chance="0.00" />	<!-- Used To Change Interior Colour, No tanned leather is black and choice of slots for other colours (Is Vanilla, Craftable In Game With Pelt And Garden Lime) -->
+		</attachments>
+	</type>
+	
+	<type name="Datsun240z_Yellow_Stripe_Rusty">
+		<attachments chance="1.00">
+			<item name="Datsun240z_Steel_Wheel_NoCap_Rusty" chance="1.00" />	<!-- Datsun240z_Steel_Wheel_NoCap, Datsun240z_Steel_Wheel_NoCap_Rusty, Datsun240z_Steel_Wheel, Datsun240z_Steel_Wheel_Rusty, Datsun240zWheel Or Datsun240z_Watanabe_Wheel -->
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Datsun240z_Steel_Wheel_NoCap_Rusty" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Datsun240z_Steel_Wheel_NoCap_Rusty" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Datsun240z_Steel_Wheel_NoCap_Rusty" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Datsun240z_Steel_Wheel_NoCap_Rusty" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarRadiator" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarBattery" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="SparkPlug" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Datsun240z_DriverDoor_Yellow_Stripe_Rusty" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Datsun240z_CodriverDoor_Yellow_Stripe_Rusty" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Datsun240z_Trunk_Yellow_Stripe_Rusty" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Datsun240z_FrontBumper_Rusty" chance="1.00" />	<!-- Datsun240z_FrontBumper, Datsun240z_FrontBumper_Rusty, Datsun240z_FrontBumper_Black Or Datsun240z_FrontBumper_Rusty_Black -->
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Datsun240z_RearBumper_Rusty" chance="1.00" />	<!-- Datsun240z_RearBumper, Datsun240z_RearBumper_Rusty, Datsun240z_RearBumper_Black Or Datsun240z_RearBumper_Rusty_Black -->
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Datsun240z_Spoiler" chance="1.00" />	<!-- Datsun240z_Spoiler Or Datsun240z_Spoiler_Glossy -->
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CanisterGasoline" chance="0.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="WoodenCrate" chance="0.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Datsun240z_FenderMirrors" chance="0.00" />  <!-- Datsun240z_FenderMirrors Or Datsun240z_FenderMirrors_Glossy -->
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Datsun240z_Arches" chance="0.00" />	<!-- Datsun240z_Arches Or Datsun240z_Arches_Glossy -->
+		</attachments>
+		<attachments chance="1.00">
+			<item name="TannedLeather" chance="0.00" />	<!-- Used To Change Interior Colour, No tanned leather is black and choice of slots for other colours (Is Vanilla, Craftable In Game With Pelt And Garden Lime) -->
+		</attachments>
+	</type>
+	
+	<type name="Datsun240z_Yellow_Stripe">
+		<attachments chance="1.00">
+			<item name="Datsun240z_Steel_Wheel" chance="1.00" />	<!-- Datsun240z_Steel_Wheel_NoCap, Datsun240z_Steel_Wheel_NoCap_Rusty, Datsun240z_Steel_Wheel, Datsun240z_Steel_Wheel_Rusty, Datsun240zWheel Or Datsun240z_Watanabe_Wheel -->
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Datsun240z_Steel_Wheel" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Datsun240z_Steel_Wheel" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Datsun240z_Steel_Wheel" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Datsun240z_Steel_Wheel" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarRadiator" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarBattery" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="SparkPlug" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Datsun240z_DriverDoor_Yellow_Stripe" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Datsun240z_CodriverDoor_Yellow_Stripe" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Datsun240z_Trunk_Yellow_Stripe" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Datsun240z_FrontBumper" chance="1.00" />	<!-- Datsun240z_FrontBumper, Datsun240z_FrontBumper_Rusty, Datsun240z_FrontBumper_Black Or Datsun240z_FrontBumper_Rusty_Black -->
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Datsun240z_RearBumper" chance="1.00" />	<!-- Datsun240z_RearBumper, Datsun240z_RearBumper_Rusty, Datsun240z_RearBumper_Black Or Datsun240z_RearBumper_Rusty_Black -->
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Datsun240z_Spoiler_Glossy" chance="1.00" />	<!-- Datsun240z_Spoiler Or Datsun240z_Spoiler_Glossy -->
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CanisterGasoline" chance="0.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="WoodenCrate" chance="0.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Datsun240z_FenderMirrors_Glossy" chance="0.00" />  <!-- Datsun240z_FenderMirrors Or Datsun240z_FenderMirrors_Glossy -->
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Datsun240z_Arches_Glossy" chance="0.00" />	<!-- Datsun240z_Arches Or Datsun240z_Arches_Glossy -->
+		</attachments>
+		<attachments chance="1.00">
+			<item name="TannedLeather" chance="0.00" />	<!-- Used To Change Interior Colour, No tanned leather is black and choice of slots for other colours (Is Vanilla, Craftable In Game With Pelt And Garden Lime) -->
+		</attachments>
+	</type>
+<!--
+IF YOU ARE ADDING THESE TO YOUR SPAWNABLETYPES.XML ONLY INCLUDE WHAT IS ABOVE THIS LINE
+-->
+</spawnabletypes>
