@@ -48,7 +48,7 @@ class CustomMission: MissionServer
 			m_EventManagerServer.RegisterEvent( Blizzard, 0.4 );
 			m_EventManagerServer.RegisterEvent( ExtremeCold, 0.4 );
 			m_EventManagerServer.RegisterEvent( Snowfall, 0.6 );
-			m_EventManagerServer.RegisterEvent( EVRStorm, 0.0 );
+			m_EventManagerServer.RegisterEvent( EVRStorm, 0.4 );
 			m_EventManagerServer.RegisterEvent( HeavyFog, 0.4 );
 		}
 	}
