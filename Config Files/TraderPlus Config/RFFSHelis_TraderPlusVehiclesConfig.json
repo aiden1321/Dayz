@@ -1,0 +1,554 @@
+{
+    "VehiclesParts": [
+       {
+            "VehicleName": "RFFSHeli_Bo105m",
+            "Height": 0,
+            "VehicleParts": [
+                "RFFSHeli_hydraulic_hoses",
+                "RFFSHeli_wiring_harness",
+                "RFFSHeli_igniter_plug",
+                "RFFSHeli_aviation_battery",
+                "RFFSHeli_Bo105m_DriverDoor",
+                "RFFSHeli_Bo105m_CoDriverDoor",
+                "RFFSHeli_Bo105m_Cargo1",
+                "RFFSHeli_Bo105m_Cargo2",
+                "RFFSHeli_Bo105m_Cargo3",
+                "RFFSHeli_Bo105m_Cargo4",
+                "RFFSHeli_Bo105m_Fuselage",
+                "HeadlightH7",
+                "HeadlightH7"
+            ]
+        },
+		{
+            "VehicleName": "RFFSHeli_Bo105m_blackcamo",
+            "Height": 0,
+            "VehicleParts": [
+                "RFFSHeli_hydraulic_hoses",
+                "RFFSHeli_wiring_harness",
+                "RFFSHeli_igniter_plug",
+                "RFFSHeli_aviation_battery",
+                "RFFSHeli_Bo105m_DriverDoor_blackcamo",
+                "RFFSHeli_Bo105m_CoDriverDoor_blackcamo",
+                "RFFSHeli_Bo105m_Cargo1_blackcamo",
+                "RFFSHeli_Bo105m_Cargo2_blackcamo",
+                "RFFSHeli_Bo105m_Cargo3_blackcamo",
+                "RFFSHeli_Bo105m_Cargo4_blackcamo",
+                "RFFSHeli_Bo105m_Fuselage_blackcamo",
+                "HeadlightH7",
+                "HeadlightH7"
+            ]
+        },		
+        {
+            "VehicleName": "RFFSHeli_LittleBird",
+            "Height": 0,
+            "VehicleParts": [
+                "RFFSHeli_hydraulic_hoses",
+                "RFFSHeli_wiring_harness",
+                "RFFSHeli_igniter_plug",
+                "RFFSHeli_aviation_battery",
+                "HeadlightH7"
+            ]
+        },
+        {
+            "VehicleName": "RFFSHeli_LittleBird_Camo",
+            "Height": 0,
+            "VehicleParts": [
+                "RFFSHeli_hydraulic_hoses",
+                "RFFSHeli_wiring_harness",
+                "RFFSHeli_igniter_plug",
+                "RFFSHeli_aviation_battery",
+                "HeadlightH7"
+            ]
+        },
+        {
+            "VehicleName": "RFFSHeli_LittleBird_Desert",
+            "Height": 0,
+            "VehicleParts": [
+                "RFFSHeli_hydraulic_hoses",
+                "RFFSHeli_wiring_harness",
+                "RFFSHeli_igniter_plug",
+                "RFFSHeli_aviation_battery",
+                "HeadlightH7"
+            ]
+        },
+        {
+            "VehicleName": "RFFSHeli_KA26",
+            "Height": 0,
+            "VehicleParts": [
+                "RFFSHeli_hydraulic_hoses",
+                "RFFSHeli_wiring_harness",
+                "RFFSHeli_igniter_plug",
+                "RFFSHeli_aviation_battery",
+                "RFFSHeli_KA26_DriverDoor",
+                "RFFSHeli_KA26_CoDriverDoor",
+                "RFFSHeli_KA26_Cargo1",
+                "RFFSHeli_KA26_Cargo2",
+                "HeadlightH7"
+            ]
+        },
+        {
+            "VehicleName": "RFFSHeli_Bell429",
+            "Height": 0,
+            "VehicleParts": [
+                "RFFSHeli_hydraulic_hoses",
+                "RFFSHeli_wiring_harness",
+                "RFFSHeli_igniter_plug",
+                "RFFSHeli_aviation_battery",
+                "RFFSHeli_Bell429_DriverDoor",
+                "RFFSHeli_Bell429_CoDriverDoor",
+                "RFFSHeli_Bell429_Cargo1",
+                "RFFSHeli_Bell429_Cargo2",
+                "RFFSHeli_Bell429_Cargo3",
+                "RFFSHeli_Bell429_Cargo4",
+				"RFFSHeli_Bell429_interior",
+				"RFFSHeli_Bell429_skids",
+				"RFFSHeli_Bell429_rearseats",
+                "HeadlightH7"
+            ]
+        },
+        {
+            "VehicleName": "RFFSHeli_Bell429_Police",
+            "Height": 0,
+            "VehicleParts": [
+                "RFFSHeli_hydraulic_hoses",
+                "RFFSHeli_wiring_harness",
+                "RFFSHeli_igniter_plug",
+                "RFFSHeli_aviation_battery",
+                "RFFSHeli_Bell429_DriverDoor_Police",
+                "RFFSHeli_Bell429_CoDriverDoor_Police",
+                "RFFSHeli_Bell429_Cargo1_Police",
+                "RFFSHeli_Bell429_Cargo2_Police",
+                "RFFSHeli_Bell429_Cargo3_Police",
+                "RFFSHeli_Bell429_Cargo4_Police",
+				"RFFSHeli_Bell429_interior_Police",
+				"RFFSHeli_Bell429_skids_Police",
+				"RFFSHeli_Bell429_rearseats_Police",
+                "HeadlightH7"
+            ]
+        },
+        {
+            "VehicleName": "RFFSHeli_Bell429_Medic",
+            "Height": 0,
+            "VehicleParts": [
+                "RFFSHeli_hydraulic_hoses",
+                "RFFSHeli_wiring_harness",
+                "RFFSHeli_igniter_plug",
+                "RFFSHeli_aviation_battery",
+                "RFFSHeli_Bell429_DriverDoor_Medic",
+                "RFFSHeli_Bell429_CoDriverDoor_Medic",
+                "RFFSHeli_Bell429_Cargo1_Medic",
+                "RFFSHeli_Bell429_Cargo2_Medic",
+                "RFFSHeli_Bell429_Cargo3_Medic",
+                "RFFSHeli_Bell429_Cargo4_Medic",
+				"RFFSHeli_Bell429_interior_Medic",
+				"RFFSHeli_Bell429_skids_Medic",
+				"RFFSHeli_Bell429_rearseats_Medic",
+                "HeadlightH7"
+            ]
+        },
+        {
+            "VehicleName": "RFFSHeli_Bell429_ZS",
+            "Height": 0,
+            "VehicleParts": [
+                "RFFSHeli_hydraulic_hoses",
+                "RFFSHeli_wiring_harness",
+                "RFFSHeli_igniter_plug",
+                "RFFSHeli_aviation_battery",
+                "RFFSHeli_Bell429_DriverDoor_ZS",
+                "RFFSHeli_Bell429_CoDriverDoor_ZS",
+                "RFFSHeli_Bell429_Cargo1_ZS",
+                "RFFSHeli_Bell429_Cargo2_ZS",
+                "RFFSHeli_Bell429_Cargo3_ZS",
+                "RFFSHeli_Bell429_Cargo4_ZS",
+				"RFFSHeli_Bell429_interior_ZS",
+				"RFFSHeli_Bell429_skids_ZS",
+				"RFFSHeli_Bell429_rearseats_ZS",
+                "HeadlightH7"
+            ]
+        },
+        {
+            "VehicleName": "RFFSHeli_Bell429_Uganda",
+            "Height": 0,
+            "VehicleParts": [
+                "RFFSHeli_hydraulic_hoses",
+                "RFFSHeli_wiring_harness",
+                "RFFSHeli_igniter_plug",
+                "RFFSHeli_aviation_battery",
+                "RFFSHeli_Bell429_DriverDoor_Uganda",
+                "RFFSHeli_Bell429_CoDriverDoor_Uganda",
+                "RFFSHeli_Bell429_Cargo1_Uganda",
+                "RFFSHeli_Bell429_Cargo2_Uganda",
+                "RFFSHeli_Bell429_Cargo3_Uganda",
+                "RFFSHeli_Bell429_Cargo4_Uganda",
+				"RFFSHeli_Bell429_interior_Uganda",
+				"RFFSHeli_Bell429_skids_Uganda",
+				"RFFSHeli_Bell429_rearseats_Uganda",
+                "HeadlightH7"
+            ]
+        },
+        {
+            "VehicleName": "RFFSHeli_Mi2",
+            "Height": 0,
+            "VehicleParts": [
+                "RFFSHeli_hydraulic_hoses",
+                "RFFSHeli_wiring_harness",
+                "RFFSHeli_igniter_plug",
+                "RFFSHeli_aviation_battery",
+                "RFFSHeli_Mi2_DriverDoor",
+                "RFFSHeli_Mi2_CoDriverDoor",
+                "RFFSHeli_Mi2_Cargo1",
+                "HeadlightH7"
+            ]
+        },
+        {
+            "VehicleName": "RFFSHeli_Mi2_Military",
+            "Height": 0,
+            "VehicleParts": [
+                "RFFSHeli_hydraulic_hoses",
+                "RFFSHeli_wiring_harness",
+                "RFFSHeli_igniter_plug",
+                "RFFSHeli_aviation_battery",
+                "RFFSHeli_Mi2_DriverDoor_Military",
+                "RFFSHeli_Mi2_CoDriverDoor_Military",
+                "RFFSHeli_Mi2_Cargo1_Military",
+                "HeadlightH7"
+            ]
+        },
+        {
+            "VehicleName": "RFFSHeli_Mi2_Hornet",
+            "Height": 0,
+            "VehicleParts": [
+                "RFFSHeli_hydraulic_hoses",
+                "RFFSHeli_wiring_harness",
+                "RFFSHeli_igniter_plug",
+                "RFFSHeli_aviation_battery",
+                "RFFSHeli_Mi2_DriverDoor_Hornet",
+                "RFFSHeli_Mi2_CoDriverDoor_Hornet",
+                "RFFSHeli_Mi2_Cargo1_Hornet",
+                "HeadlightH7"
+            ]
+        },
+        {
+            "VehicleName": "RFFSHeli_Apache",
+            "Height": 0,
+            "VehicleParts": [
+                "RFFSHeli_hydraulic_hoses",
+                "RFFSHeli_wiring_harness",
+                "RFFSHeli_igniter_plug",
+                "RFFSHeli_aviation_battery",
+                "RFFSHeli_Apache_DriverDoor",
+                "RFFSHeli_Apache_CoDriverDoor",
+                "HeadlightH7"
+            ]
+        },
+        {
+            "VehicleName": "RFFSHeli_Apache_Winter",
+            "Height": 0,
+            "VehicleParts": [
+                "RFFSHeli_hydraulic_hoses",
+                "RFFSHeli_wiring_harness",
+                "RFFSHeli_igniter_plug",
+                "RFFSHeli_aviation_battery",
+                "RFFSHeli_Apache_DriverDoor_Winter",
+                "RFFSHeli_Apache_CoDriverDoor_Winter",
+                "HeadlightH7"
+            ]
+        },
+        {
+            "VehicleName": "RFFSHeli_Apache_Desert",
+            "Height": 0,
+            "VehicleParts": [
+                "RFFSHeli_hydraulic_hoses",
+                "RFFSHeli_wiring_harness",
+                "RFFSHeli_igniter_plug",
+                "RFFSHeli_aviation_battery",
+                "RFFSHeli_Apache_DriverDoor_Desert",
+                "RFFSHeli_Apache_CoDriverDoor_Desert",
+                "HeadlightH7"
+            ]
+        },
+        {
+            "VehicleName": "RFFSHeli_R22",
+            "Height": 0,
+            "VehicleParts": [
+                "RFFSHeli_hydraulic_hoses",
+                "RFFSHeli_wiring_harness",
+                "RFFSHeli_igniter_plug",
+                "RFFSHeli_aviation_battery",
+                "RFFSHeli_R22_DriverDoor",
+                "RFFSHeli_R22_CoDriverDoor",
+                "HeadlightH7"
+            ]
+        },
+        {
+            "VehicleName": "RFFSHeli_R22_Red",
+            "Height": 0,
+            "VehicleParts": [
+                "RFFSHeli_hydraulic_hoses",
+                "RFFSHeli_wiring_harness",
+                "RFFSHeli_igniter_plug",
+                "RFFSHeli_aviation_battery",
+                "RFFSHeli_R22_DriverDoor_Red",
+                "RFFSHeli_R22_CoDriverDoor_Red",
+                "HeadlightH7"
+            ]
+        },
+        {
+            "VehicleName": "RFFSHeli_R22_Black",
+            "Height": 0,
+            "VehicleParts": [
+                "RFFSHeli_hydraulic_hoses",
+                "RFFSHeli_wiring_harness",
+                "RFFSHeli_igniter_plug",
+                "RFFSHeli_aviation_battery",
+                "RFFSHeli_R22_DriverDoor_Black",
+                "RFFSHeli_R22_CoDriverDoor_Black",
+                "HeadlightH7"
+            ]
+        },
+        {
+            "VehicleName": "RFFSHeli_Blackhawk",
+            "Height": 0,
+            "VehicleParts": [
+                "RFFSHeli_hydraulic_hoses",
+                "RFFSHeli_wiring_harness",
+                "RFFSHeli_igniter_plug",
+                "RFFSHeli_aviation_battery",
+                "RFFSHeli_Blackhawk_DriverDoor",
+                "RFFSHeli_Blackhawk_CoDriverDoor",
+                "RFFSHeli_Blackhawk_Cargo1",
+                "RFFSHeli_Blackhawk_Cargo1a",
+                "RFFSHeli_Blackhawk_Cargo2",
+                "RFFSHeli_Blackhawk_Cargo2a",
+                "RFFSHeli_Blackhawk_Cargo3",
+                "RFFSHeli_Blackhawk_Cargo4",
+                "HeadlightH7",
+                "HeadlightH7"
+            ]
+        },
+        {
+            "VehicleName": "RFFSHeli_Blackhawk_Cargo",
+            "Height": 0,
+            "VehicleParts": [
+                "RFFSHeli_hydraulic_hoses",
+                "RFFSHeli_wiring_harness",
+                "RFFSHeli_igniter_plug",
+                "RFFSHeli_aviation_battery",
+                "RFFSHeli_Blackhawk_DriverDoor",
+                "RFFSHeli_Blackhawk_CoDriverDoor",
+                "RFFSHeli_Blackhawk_Cargo1",
+                "RFFSHeli_Blackhawk_Cargo1a",
+                "RFFSHeli_Blackhawk_Cargo2",
+                "RFFSHeli_Blackhawk_Cargo2a",
+                "RFFSHeli_Blackhawk_Cargo3",
+                "RFFSHeli_Blackhawk_Cargo4",
+                "HeadlightH7",
+                "HeadlightH7"
+            ]
+        },
+        {
+            "VehicleName": "RFFSHeli_Blackhawk_Woodland",
+            "Height": 0,
+            "VehicleParts": [
+                "RFFSHeli_hydraulic_hoses",
+                "RFFSHeli_wiring_harness",
+                "RFFSHeli_igniter_plug",
+                "RFFSHeli_aviation_battery",
+                "RFFSHeli_Blackhawk_DriverDoor_Woodland",
+                "RFFSHeli_Blackhawk_CoDriverDoor_Woodland",
+                "RFFSHeli_Blackhawk_Cargo1_Woodland",
+                "RFFSHeli_Blackhawk_Cargo1a_Woodland",
+                "RFFSHeli_Blackhawk_Cargo2_Woodland",
+                "RFFSHeli_Blackhawk_Cargo2a_Woodland",
+                "RFFSHeli_Blackhawk_Cargo3_Woodland",
+                "RFFSHeli_Blackhawk_Cargo4_Woodland",
+                "HeadlightH7",
+                "HeadlightH7"
+            ]
+        },
+        {
+            "VehicleName": "RFFSHeli_Blackhawk_blackblackhawk",
+            "Height": 0,
+            "VehicleParts": [
+                "RFFSHeli_hydraulic_hoses",
+                "RFFSHeli_wiring_harness",
+                "RFFSHeli_igniter_plug",
+                "RFFSHeli_aviation_battery",
+                "RFFSHeli_Blackhawk_DriverDoor_blackblackhawk",
+                "RFFSHeli_Blackhawk_CoDriverDoor_blackblackhawk",
+                "RFFSHeli_Blackhawk_Cargo1_blackblackhawk",
+                "RFFSHeli_Blackhawk_Cargo1a_blackblackhawk",
+                "RFFSHeli_Blackhawk_Cargo2_blackblackhawk",
+                "RFFSHeli_Blackhawk_Cargo2a_blackblackhawk",
+                "RFFSHeli_Blackhawk_Cargo3_blackblackhawk",
+                "RFFSHeli_Blackhawk_Cargo4_blackblackhawk",
+                "HeadlightH7",
+                "HeadlightH7"
+            ]
+        },
+        {
+            "VehicleName": "RFFSHeli_Blackhawk_Budhawk",
+            "Height": 0,
+            "VehicleParts": [
+                "RFFSHeli_hydraulic_hoses",
+                "RFFSHeli_wiring_harness",
+                "RFFSHeli_igniter_plug",
+                "RFFSHeli_aviation_battery",
+                "RFFSHeli_Blackhawk_DriverDoor_Budhawk",
+                "RFFSHeli_Blackhawk_CoDriverDoor_Budhawk",
+                "RFFSHeli_Blackhawk_Cargo1_Budhawk",
+                "RFFSHeli_Blackhawk_Cargo1a_Budhawk",
+                "RFFSHeli_Blackhawk_Cargo2_Budhawk",
+                "RFFSHeli_Blackhawk_Cargo2a_Budhawk",
+                "RFFSHeli_Blackhawk_Cargo3_Budhawk",
+                "RFFSHeli_Blackhawk_Cargo4_Budhawk",
+                "HeadlightH7",
+                "HeadlightH7"
+            ]
+        },
+        {
+            "VehicleName": "RFFSHeli_CH53e",
+            "Height": 0,
+            "VehicleParts": [
+                "RFFSHeli_hydraulic_hoses",
+                "RFFSHeli_wiring_harness",
+                "RFFSHeli_igniter_plug",
+                "RFFSHeli_aviation_battery",
+                "RFFSHeli_CH53e_Cargo1",
+                "RFFSHeli_CH53e_Cargo2",
+                "HeadlightH7",
+                "HeadlightH7"
+            ]
+        },
+        {
+            "VehicleName": "RFFSHeli_CH47",
+            "Height": 0,
+            "VehicleParts": [
+                "RFFSHeli_hydraulic_hoses",
+                "RFFSHeli_wiring_harness",
+                "RFFSHeli_igniter_plug",
+                "RFFSHeli_aviation_battery",
+                "RFFSHeli_CH47_Cargo1",
+                "RFFSHeli_CH47_Cargo2",
+                "HeadlightH7",
+                "HeadlightH7"
+            ]
+        },
+        {
+            "VehicleName": "RFFSHeli_EC135",
+            "Height": 0,
+            "VehicleParts": [
+                "RFFSHeli_hydraulic_hoses",
+                "RFFSHeli_wiring_harness",
+                "RFFSHeli_igniter_plug",
+                "RFFSHeli_aviation_battery",
+                "RFFSHeli_EC135_DriverDoor",
+                "RFFSHeli_EC135_CoDriverDoor",
+                "RFFSHeli_EC135_Cargo1",
+                "RFFSHeli_EC135_Cargo2",
+                "RFFSHeli_EC135_Cargo3",
+                "RFFSHeli_EC135_Cargo4",
+                "HeadlightH7",
+                "HeadlightH7"
+            ]
+        },
+        {
+            "VehicleName": "RFFSHeli_EC135",
+            "Height": 0,
+            "VehicleParts": [
+                "RFFSHeli_hydraulic_hoses",
+                "RFFSHeli_wiring_harness",
+                "RFFSHeli_igniter_plug",
+                "RFFSHeli_aviation_battery",
+                "RFFSHeli_EC135_DriverDoor_BlackCamo",
+                "RFFSHeli_EC135_CoDriverDoor_BlackCamo",
+                "RFFSHeli_EC135_Cargo1_BlackCamo",
+                "RFFSHeli_EC135_Cargo2_BlackCamo",
+                "RFFSHeli_EC135_Cargo3_BlackCamo",
+                "RFFSHeli_EC135_Cargo4_BlackCamo",
+                "HeadlightH7",
+                "HeadlightH7"
+            ]
+        },
+       {
+            "VehicleName": "RFFSHeli_UH1H",
+            "Height": 0,
+            "VehicleParts": [
+                "RFFSHeli_hydraulic_hoses",
+                "RFFSHeli_wiring_harness",
+                "RFFSHeli_igniter_plug",
+                "RFFSHeli_aviation_battery",
+                "RFFSHeli_UH1H_DriverDoor",
+                "RFFSHeli_UH1H_CoDriverDoor",
+                "RFFSHeli_UH1H_Cargo1",
+                "RFFSHeli_UH1H_Cargo2",
+                "RFFSHeli_UH1H_Cargo1a",
+                "RFFSHeli_UH1H_Cargo2a",
+                "HeadlightH7",
+                "HeadlightH7"
+            ]
+        },
+       {
+            "VehicleName": "RFFSHeli_UH1H_Combat",
+            "Height": 0,
+            "VehicleParts": [
+                "RFFSHeli_hydraulic_hoses",
+                "RFFSHeli_wiring_harness",
+                "RFFSHeli_igniter_plug",
+                "RFFSHeli_aviation_battery",
+                "RFFSHeli_UH1H_Combat_DriverDoor",
+                "RFFSHeli_UH1H_Combat_CoDriverDoor",
+                "HeadlightH7",
+                "HeadlightH7"
+            ]
+        }	,
+       {
+            "VehicleName": "RFFSHeli_AS350",
+            "Height": 0,
+            "VehicleParts": [
+                "RFFSHeli_hydraulic_hoses",
+                "RFFSHeli_wiring_harness",
+                "RFFSHeli_igniter_plug",
+                "RFFSHeli_aviation_battery",
+                "RFFSHeli_AS350_DriverDoor",
+                "RFFSHeli_AS350_CoDriverDoor",
+                "RFFSHeli_AS350_Cargo1",
+                "RFFSHeli_AS350_Cargo2",
+                "HeadlightH7",
+                "HeadlightH7"
+            ]
+        },
+       {
+            "VehicleName": "RFFSHeli_S76",
+            "Height": 0,
+            "VehicleParts": [
+                "RFFSHeli_hydraulic_hoses",
+                "RFFSHeli_wiring_harness",
+                "RFFSHeli_igniter_plug",
+                "RFFSHeli_aviation_battery",
+                "RFFSHeli_S76_DriverDoor",
+                "RFFSHeli_S76_CoDriverDoor",
+                "RFFSHeli_S76_Cargo1",
+                "RFFSHeli_S76_Cargo2",
+                "HeadlightH7",
+                "HeadlightH7"
+            ]
+        },
+       {
+            "VehicleName": "RFFSHeli_S76_WoodlandCamo",
+            "Height": 0,
+            "VehicleParts": [
+                "RFFSHeli_hydraulic_hoses",
+                "RFFSHeli_wiring_harness",
+                "RFFSHeli_igniter_plug",
+                "RFFSHeli_aviation_battery",
+                "RFFSHeli_S76_WoodlandCamo_DriverDoor",
+                "RFFSHeli_S76_WoodlandCamo_CoDriverDoor",
+                "RFFSHeli_S76_WoodlandCamo_Cargo1",
+                "RFFSHeli_S76_WoodlandCamo_Cargo2",
+                "HeadlightH7",
+                "HeadlightH7"
+            ]
+        }
+    ]
+}

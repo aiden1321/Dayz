@@ -1,0 +1,161 @@
+// ------------------------------------------------------ Trader Markers -------------------------------------------------------
+
+// Pripyat:
+
+
+
+<TraderMarker> 			0
+<TraderMarkerPosition>	4765.047852, 203.688950, 16283.853516
+<TraderMarkerSafezone>	0
+
+<TraderMarker> 			1
+<TraderMarkerPosition>	4778.328125, 200.487442, 16301.908203
+<TraderMarkerSafezone>	60
+<VehicleSpawn>			4779.077637, 200.614700, 16312.113281		
+<VehicleSpawnOri>		-44.693008, 0.000000, 0.000000		
+
+<TraderMarker> 			2
+<TraderMarkerPosition>	4786.528809, 200.303040, 16296.410156
+<TraderMarkerSafezone>	0	
+
+<TraderMarker> 			3
+<TraderMarkerPosition>	4836.176270, 201.367004, 16327.745117
+<TraderMarkerSafezone>	65	
+<VehicleSpawn>			4846.018555, 201.424271, 16332.684570		
+<VehicleSpawnOri>		-7.245270, -0.000000, 0.000000	
+
+<TraderMarker> 			4
+<TraderMarkerPosition>	4766.571777, 200.672501, 16319.724609
+<TraderMarkerSafezone>	0	
+
+<TraderMarker> 			5                                        //START OF BLACKMARKET
+<TraderMarkerPosition>	12920.307617, 194.371750, 7781.798828
+<TraderMarkerSafezone>	80	
+
+<TraderMarker> 			6
+<TraderMarkerPosition>	12966.479492, 194.581009, 7811.304688
+<TraderMarkerSafezone>	0	
+
+<TraderMarker> 			7
+<TraderMarkerPosition>	12973.028320, 194.655624, 7815.781738
+<TraderMarkerSafezone>	0	
+
+<TraderMarker> 			8
+<TraderMarkerPosition>	12962.244141, 194.431808, 7804.046387
+<TraderMarkerSafezone>	0	
+
+<TraderMarker> 			9
+<TraderMarkerPosition>	12919.295898, 194.372665, 7778.262207
+<TraderMarkerSafezone>	80
+// ------------------------------------------------------ Objects to Spawn ------------------------------------------------------
+	
+// Pripyat:
+
+
+
+
+<Object> 			SurvivorF_Frida
+<ObjectPosition>	4765.047852, 203.688950, 16283.853516
+<ObjectOrientation>	85.275879, 0.000000, -0.000000
+<ObjectAttachment>  CBD_JunHelmet
+<ObjectAttachment>	CBD_MasterChief_Gloves
+<ObjectAttachment>	CBD_MasterChiefTop_Black
+<ObjectAttachment>	CBD_MasterChief_Jacket
+<ObjectAttachment>	CBD_MasterChief_Pants
+<ObjectAttachment>	CBD_MasterChief_Boots
+
+<Object> 			SurvivorM_Peter
+<ObjectPosition>	4778.328125, 200.487442, 16301.908203
+<ObjectOrientation>	-10.496624, 0.000000, 0.000000
+<ObjectAttachment>  CBD_MasterChiefHelmet_Black
+<ObjectAttachment>	CBD_MasterChief_Gloves
+<ObjectAttachment>	CBD_MasterChiefTop_Black
+<ObjectAttachment>	CBD_MasterChief_Jacket
+<ObjectAttachment>	CBD_MasterChief_Pants
+<ObjectAttachment>	CBD_MasterChief_Boots
+
+<Object> 			SurvivorF_Maria
+<ObjectPosition>	4786.528809, 200.303040, 16296.410156
+<ObjectOrientation>	37.686584, 0.000000, -0.000000
+<ObjectAttachment>  CBD_MasterChiefHelmet_Black
+<ObjectAttachment>	CBD_MasterChief_Gloves
+<ObjectAttachment>	CBD_MasterChiefTop_Black
+<ObjectAttachment>	CBD_MasterChief_Jacket
+<ObjectAttachment>	CBD_MasterChief_Pants
+<ObjectAttachment>	CBD_MasterChief_Boots
+
+<Object> 			SurvivorF_Gabi
+<ObjectPosition>	4836.176270, 201.367004, 16327.745117
+<ObjectOrientation>	15.584911, 0.000000, -0.000000
+<ObjectAttachment>  RFFSHeli_PilotHelmet_Black
+<ObjectAttachment>	RFFSHeli_PilotGloves
+<ObjectAttachment>	RFFSHeli_PilotShirt
+<ObjectAttachment>	RFFSHeli_PilotVest
+<ObjectAttachment>	RFFSHeli_PilotPants
+<ObjectAttachment>	CBD_MasterChief_Boots
+
+
+<Object> 			SurvivorM_Denis
+<ObjectPosition>	4766.571777, 200.672501, 16319.724609
+<ObjectOrientation>	82.996414, 0.000000, -0.000000
+<ObjectAttachment>  CBD_MasterChiefHelmet_Black
+<ObjectAttachment>	CBD_MasterChief_Gloves
+<ObjectAttachment>	CBD_MasterChiefTop_Black
+<ObjectAttachment>	CBD_MasterChief_Jacket
+<ObjectAttachment>	CBD_MasterChief_Pants
+<ObjectAttachment>	CBD_MasterChief_Boots
+
+
+<Object> 			SurvivorM_Peter                 // BM WEAPONS
+<ObjectPosition>	12920.307617, 194.371750, 7781.798828
+<ObjectOrientation>	108.105843, 0.000000, -0.000000
+<ObjectAttachment>  CBD_MasterChiefHelmet_Black
+<ObjectAttachment>	CBD_MasterChief_Gloves
+<ObjectAttachment>	CBD_MasterChiefTop_Black
+<ObjectAttachment>	CBD_MasterChief_Jacket
+<ObjectAttachment>	CBD_MasterChief_Pants
+<ObjectAttachment>	CBD_MasterChief_Boots
+
+<Object> 			SurvivorF_Maria                 // BM COTHING
+<ObjectPosition>	12966.479492, 194.581009, 7811.304688
+<ObjectOrientation>	127.513206, 0.000000, -0.000000
+<ObjectAttachment>  t_helmet_steel
+<ObjectAttachment>	t_elvenarmor_gloves
+<ObjectAttachment>	t_elvenarmor_body
+<ObjectAttachment>	t_curvedsword
+<ObjectAttachment>	t_elvenarmor_pants
+<ObjectAttachment>	t_elvenarmor_boots
+
+
+<Object> 			SurvivorM_Peter                 // BM Colectables
+<ObjectPosition>	12973.028320, 194.655624, 7815.781738
+<ObjectOrientation>	164.054718, 0.000000, -0.000000
+<ObjectAttachment>  t_bulkarmor_helmet
+<ObjectAttachment>	t_bulkarmor_gloves
+<ObjectAttachment>	t_bulkarmor_body
+<ObjectAttachment>	t_bulkarmor_cape
+<ObjectAttachment>	t_bulkarmor_pants
+<ObjectAttachment>	t_bulkarmor_boots
+
+<Object> 			SurvivorF_Maria                 // BM DRUGS
+<ObjectPosition>	12962.244141, 194.431808, 7804.046387
+<ObjectOrientation>	124.908348, 0.000000, -0.000000
+<ObjectAttachment>  t_crusader_helmet
+<ObjectAttachment>	t_crusader_gloves
+<ObjectAttachment>	t_crusader_body
+<ObjectAttachment>	t_crusader_hood
+<ObjectAttachment>	t_crusader_pants
+<ObjectAttachment>	t_crusader_boots
+
+<Object> 			SurvivorF_Maria                 // BM AMMO 
+<ObjectPosition>	12919.295898, 194.372665, 7778.262207
+<ObjectOrientation>	92.368774, 0.000000, -0.000000
+<ObjectAttachment>  t_crusader_helmet_black
+<ObjectAttachment>	t_crusader_gloves_black
+<ObjectAttachment>	t_crusader_body_black
+<ObjectAttachment>	t_crusader_hood_black
+<ObjectAttachment>	t_crusader_pants_black
+<ObjectAttachment>	t_crusader_boots_black
+
+//<OpenFile> FileName.txt								// Links to another File; Must be right above <FileEnd>!
+<FileEnd>												// This has to be on the End of this File and is very importand!
