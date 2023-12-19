@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<territory-type>
+    <territory color="4293225843">
+        <zone name="Infectedrobot" smin="0" smax="0" dmin="0" dmax="0" x="17207.04" z="11659.41" r="60"/>
+        <zone name="Infectedrobot" smin="0" smax="0" dmin="0" dmax="0" x="16187.30" z="11579.38" r="60"/>
+        <zone name="Infectedrobot" smin="0" smax="0" dmin="0" dmax="0" x="15130.60" z="11388.58" r="60"/>
+        <zone name="Infectedrobot" smin="0" smax="0" dmin="0" dmax="0" x="15292.43" z="11504.25" r="60"/>
+        <zone name="Infectedrobot" smin="0" smax="0" dmin="0" dmax="0" x="7777.32" z="15408.41" r="60"/>
+        <zone name="Infectedrobot" smin="0" smax="0" dmin="0" dmax="0" x="7214.97" z="15522.20" r="60"/>
+        <zone name="Infectedrobot" smin="0" smax="0" dmin="0" dmax="0" x="6377.52" z="15292.12" r="60"/>
+        <zone name="Infectedrobot" smin="0" smax="0" dmin="0" dmax="0" x="6068.85" z="15035.77" r="60"/>
+        <zone name="Infectedrobot" smin="0" smax="0" dmin="0" dmax="0" x="6824.94" z="14866.45" r="60"/>
+        <zone name="Infectedrobot" smin="0" smax="0" dmin="0" dmax="0" x="2328.08" z="16411.06" r="60"/>
+        <zone name="Infectedrobot" smin="0" smax="0" dmin="0" dmax="0" x="2130.00" z="16594.26" r="60"/>
+        <zone name="Infectedrobot" smin="0" smax="0" dmin="0" dmax="0" x="2151.87" z="16487.96" r="60"/>
+        <zone name="Infectedrobot" smin="0" smax="0" dmin="0" dmax="0" x="14622.44" z="1584.60" r="60"/>
+    </territory>
+    <territory color="4287962388">
+        <zone name="Infectedrobot" smin="0" smax="0" dmin="0" dmax="0" x="14928.61" z="1872.22" r="80"/>
+        <zone name="Infectedrobot" smin="0" smax="0" dmin="0" dmax="0" x="14498.62" z="2065.92" r="80"/>
+        <zone name="Infectedrobot" smin="0" smax="0" dmin="0" dmax="0" x="14039.99" z="2446.07" r="80"/>
+        <zone name="Infectedrobot" smin="0" smax="0" dmin="0" dmax="0" x="3961.20" z="17016.06" r="80"/>
+        <zone name="Infectedrobot" smin="0" smax="0" dmin="0" dmax="0" x="4179.89" z="17113.60" r="80"/>
+        <zone name="Infectedrobot" smin="0" smax="0" dmin="0" dmax="0" x="3226.39" z="16672.17" r="80"/>
+        <zone name="Infectedrobot" smin="0" smax="0" dmin="0" dmax="0" x="3570.05" z="16150.71" r="80"/>
+        <zone name="Infectedrobot" smin="0" smax="0" dmin="0" dmax="0" x="4194.89" z="16348.29" r="80"/>
+        <zone name="Infectedrobot" smin="0" smax="0" dmin="0" dmax="0" x="19107.44" z="18446.73" r="80"/>
+        <zone name="Infectedrobot" smin="0" smax="0" dmin="0" dmax="0" x="19226.78" z="18426.72" r="80"/>
+        <zone name="Infectedrobot" smin="0" smax="0" dmin="0" dmax="0" x="19117.44" z="18473.61" r="60"/>
+        <zone name="Infectedrobot" smin="0" smax="0" dmin="0" dmax="0" x="19103.69" z="18401.78" r="80"/>
+        <zone name="Infectedrobot" smin="0" smax="0" dmin="0" dmax="0" x="19177.42" z="18424.91" r="80"/>
+        <zone name="Infectedrobot" smin="0" smax="0" dmin="0" dmax="0" x="19214.29" z="18474.31" r="80"/>
+        <zone name="Infectedrobot" smin="0" smax="0" dmin="0" dmax="0" x="19049.33" z="18430.54" r="80"/>
+        <zone name="Infectedrobot" smin="0" smax="0" dmin="0" dmax="0" x="8223.66" z="14155.48" r="80"/>
+        <zone name="Infectedrobot" smin="0" smax="0" dmin="0" dmax="0" x="8461.17" z="14196.61" r="80"/>
+    </territory>
+</territory-type>
